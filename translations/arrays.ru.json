@@ -1,0 +1,588 @@
+{
+  "entries": [
+    {
+      "source": "Feeling safe isn't a feeling that you can feel.<br>- The Janitor",
+      "translation": "Чувство безопасности — не то чувство, которое можно почувствовать.<br>— «Уборщик»"
+    },
+    {
+      "source": "I loved him better than all..<br>I did not expect that he will go crazy<br>and kill me with an axe...<br>But I love it all smooth..<br>- My Bones",
+      "translation": "Я любила его больше всех...<br>Не думала, что он сойдёт с ума<br>и зарубит меня топором...<br>Но всё равно люблю...<br>— «Мои кости»"
+    },
+    {
+      "source": "Don't run. Don't run. Don't run.<br>Where are you? Where are you? Don't run.<br>- Jeff the Killer",
+      "translation": "Не убегай. Не убегай. Не убегай.<br>Где ты? Где ты? Не убегай.<br>— «Джефф-убийца»"
+    },
+    {
+      "source": "WAKE UP,<br>YOUR IN A COMA...<br>- Shadows Ch.1",
+      "translation": "ПРОСНИСЬ,<br>ТЫ В КОМЕ...<br>— «Тени», глава 1"
+    },
+    {
+      "source": "Mom. Dad. Any breakfast, toast, corn flakes?<br>- Apartment 666 ",
+      "translation": "Мам. Пап. Что на завтрак? Тосты, хлопья?<br>— «Квартира 666» "
+    },
+    {
+      "source": "This doesn't make any sense.",
+      "translation": "Какой-то бред."
+    },
+    {
+      "source": "I can't see inside.",
+      "translation": "Не видно, что внутри."
+    },
+    {
+      "source": "Who is conducting the train?",
+      "translation": "Кто ведёт этот поезд?"
+    },
+    {
+      "source": "The power is off.",
+      "translation": "Электричество отключено."
+    },
+    {
+      "source": "It's an old game called \"MIDNIGHT\"",
+      "translation": "Старая игра под названием «ПОЛНОЧЬ»"
+    },
+    {
+      "source": "What happened here?",
+      "translation": "Что здесь произошло?"
+    },
+    {
+      "source": "It's broken.",
+      "translation": "Не работает."
+    },
+    {
+      "source": "A lot of books on \"Subway Utilities\"",
+      "translation": "Много книг об обслуживании метро."
+    },
+    {
+      "source": "And a few books about locksmithing.",
+      "translation": "И ещё несколько книг о замочном деле."
+    },
+    {
+      "source": "There's only one book here.",
+      "translation": "Здесь всего одна книга."
+    },
+    {
+      "source": "\"The Miracles of Business\"",
+      "translation": "«Чудеса бизнеса»"
+    },
+    {
+      "source": "What is that?",
+      "translation": "Что это?"
+    },
+    {
+      "source": "A few books about \"Customer Service\"",
+      "translation": "Несколько книг об обслуживании клиентов."
+    },
+    {
+      "source": "Something is blocking the way back.",
+      "translation": "Что-то преграждает обратный путь."
+    },
+    {
+      "source": "Gross",
+      "translation": "Мерзость"
+    },
+    {
+      "source": "Disgusting",
+      "translation": "Отвратительно"
+    },
+    {
+      "source": "I'm so ugly.",
+      "translation": "Как же уродливо я выгляжу."
+    },
+    {
+      "source": "I'm so disgusting.",
+      "translation": "Смотреть на себя противно."
+    },
+    {
+      "source": "No one wants me.",
+      "translation": "Никому нет до меня дела."
+    },
+    {
+      "source": "It won't open, it's covered in some kind of slime.",
+      "translation": "Не открывается. Всё покрыто какой-то слизью."
+    },
+    {
+      "source": "So how are you feeling?<br>",
+      "translation": "Итак, как вы себя чувствуете?<br>"
+    },
+    {
+      "source": "Do you feel these sessions are still helping?<br>",
+      "translation": "Как вы считаете, наши встречи всё ещё помогают?<br>"
+    },
+    {
+      "source": "You could try something a little more",
+      "translation": "Можно попробовать более"
+    },
+    {
+      "source": "Direct.<br>",
+      "translation": "прямой подход.<br>"
+    },
+    {
+      "source": "We could start In Vivo exposure therapy. ",
+      "translation": "Мы могли бы начать экспозиционную терапию в реальных условиях — «ин виво». "
+    },
+    {
+      "source": "I feel like everyone hates me, and I hate myself. ",
+      "translation": "Мне кажется, меня все ненавидят. И я себя ненавижу. "
+    },
+    {
+      "source": "Then how should I fix it?<br>",
+      "translation": "Тогда как мне это исправить?<br>"
+    },
+    {
+      "source": "Sleepy.",
+      "translation": "Хочется спать."
+    },
+    {
+      "source": "I remember.",
+      "translation": "Я помню."
+    },
+    {
+      "source": "Remember \"the sleep of reason produces monsters\".",
+      "translation": "Помните: «Сон разума рождает чудовищ»."
+    },
+    {
+      "source": "Sometimes monsters are the only motivators we have. ",
+      "translation": "Порой только чудовища и заставляют нас двигаться дальше. "
+    },
+    {
+      "source": "Your sense of self worth is too influenced by body shape<br>and weight,",
+      "translation": "Ваша самооценка слишком зависит от фигуры<br>и веса,"
+    },
+    {
+      "source": "You have worth, you have beauty, but you are unable to see it.<br>",
+      "translation": "В вас есть и достоинство, и красота, но вы их не замечаете.<br>"
+    },
+    {
+      "source": "Your vision of yourself is distorted.",
+      "translation": "Ваше представление о себе искажено."
+    },
+    {
+      "source": "We are working together to fix it.<br>",
+      "translation": "Мы вместе работаем над тем, чтобы это изменить.<br>"
+    },
+    {
+      "source": "But I will also write you a refill for your Fluoxetine.",
+      "translation": "Но я также продлю вам рецепт на флуоксетин."
+    },
+    {
+      "source": "Something about this train unnerves me.",
+      "translation": "Что-то в этом поезде меня тревожит."
+    },
+    {
+      "source": "And it's blocking the tunnel.",
+      "translation": "И он перегораживает тоннель."
+    },
+    {
+      "source": "I can't just leave.",
+      "translation": "Я не могу просто уйти."
+    },
+    {
+      "source": "I have to find her.",
+      "translation": "Нужно её найти."
+    },
+    {
+      "source": "I can't go in there, it's too small.",
+      "translation": "Не могу туда залезть. Слишком тесно."
+    },
+    {
+      "source": "Press [D-pad Down] to toggle Flashlight",
+      "translation": "Нажмите [D-pad Down], чтобы включить или выключить фонарь"
+    },
+    {
+      "source": "Press [Y] to Whistle",
+      "translation": "Нажмите [Y], чтобы свистнуть"
+    },
+    {
+      "source": "Press [Back] to check Inventory",
+      "translation": "Нажмите [Back], чтобы открыть инвентарь"
+    },
+    {
+      "source": "It's a torn piece of my dog's leash",
+      "translation": "Оторванный кусок поводка моей собаки."
+    },
+    {
+      "source": "I can't see what's inside it.",
+      "translation": "Не видно, что там внутри."
+    },
+    {
+      "source": "The eyes have been eaten",
+      "translation": "Глаза съедены."
+    },
+    {
+      "source": "I can't go down there.",
+      "translation": "Я не могу туда спуститься."
+    },
+    {
+      "source": "I won't fit.",
+      "translation": "Я не пролезу."
+    },
+    {
+      "source": "It's too small.",
+      "translation": "Слишком тесно."
+    },
+    {
+      "source": "I don't want to go down there.",
+      "translation": "Я не хочу туда спускаться."
+    },
+    {
+      "source": "Someone has poured gas all over this.",
+      "translation": "Кто-то облил всё это бензином."
+    },
+    {
+      "source": "It's filthy.",
+      "translation": "Какая грязь."
+    },
+    {
+      "source": "Just a normal dryer.",
+      "translation": "Обычная сушильная машина."
+    },
+    {
+      "source": "It's covered in bugs.",
+      "translation": "Всё кишит насекомыми."
+    },
+    {
+      "source": "My car is out there.",
+      "translation": "Там моя машина."
+    },
+    {
+      "source": "Something is sleeping here.",
+      "translation": "Здесь что-то спит."
+    },
+    {
+      "source": "This chair looks clean.",
+      "translation": "Этот стул выглядит чистым."
+    },
+    {
+      "source": "I could sleep here.",
+      "translation": "Здесь можно поспать."
+    },
+    {
+      "source": "Your body is rotting.",
+      "translation": "Твоё тело гниёт."
+    },
+    {
+      "source": "This bed looks clean.",
+      "translation": "Эта кровать выглядит чистой."
+    },
+    {
+      "source": "The vacancy sign is flashing.",
+      "translation": "Мигает вывеска «Есть места»."
+    },
+    {
+      "source": "Something is in there.",
+      "translation": "Там что-то есть."
+    },
+    {
+      "source": "It smells of death.",
+      "translation": "Пахнет смертью."
+    },
+    {
+      "source": "It's soaked with tar.",
+      "translation": "Всё пропитано дёгтем."
+    },
+    {
+      "source": "Something is holding it shut.",
+      "translation": "Что-то не даёт открыть."
+    },
+    {
+      "source": "I can't sleep here.",
+      "translation": "Здесь не уснуть."
+    },
+    {
+      "source": "The bed is coated in soot.",
+      "translation": "Кровать покрыта сажей."
+    },
+    {
+      "source": "It's wet and putrid.",
+      "translation": "Всё мокрое и гнилое."
+    },
+    {
+      "source": "NOTHING",
+      "translation": "НИЧЕГО"
+    },
+    {
+      "source": "What are you hoping to accomplish?",
+      "translation": "Чего ты надеешься добиться?"
+    },
+    {
+      "source": "Without me, you're just hollow.",
+      "translation": "Без меня внутри тебя лишь пустота."
+    },
+    {
+      "source": "You're pathetic. You need fear to motivate you.",
+      "translation": "Жалкое зрелище. Только страх и заставляет тебя двигаться."
+    },
+    {
+      "source": "It's too late for that!",
+      "translation": "Для этого уже слишком поздно!"
+    },
+    {
+      "source": "It won't work.",
+      "translation": "Не получится."
+    },
+    {
+      "source": "I don't need to flood the drain room.",
+      "translation": "Незачем затапливать сливную камеру."
+    },
+    {
+      "source": "Do you think you're getting better?",
+      "translation": "Думаешь, тебе становится лучше?"
+    },
+    {
+      "source": "Does doing this even have a purpose? ",
+      "translation": "В том, что ты делаешь, вообще есть смысл? "
+    },
+    {
+      "source": "Something is beating on the door.",
+      "translation": "Что-то колотит в дверь."
+    },
+    {
+      "source": "I'm your identity, I'm your crutch!",
+      "translation": "Я — твоя личность! Я — твой костыль!"
+    },
+    {
+      "source": "You used to cling to me like a parasite. ",
+      "translation": "Ты цеплялся за меня, как паразит. "
+    },
+    {
+      "source": "I know you better than anyone. ",
+      "translation": "Я знаю тебя лучше всех. "
+    },
+    {
+      "source": "And I know you're weak. ",
+      "translation": "И я знаю, как ты слаб. "
+    },
+    {
+      "source": "You'll come right back. ",
+      "translation": "Ты ещё вернёшься. "
+    },
+    {
+      "source": "A girl was lost from self-image and doubt.",
+      "translation": "Девушка потеряла себя в своём отражении и сомнениях."
+    },
+    {
+      "source": "A boy was lost with paranoia in his hideout.",
+      "translation": "Юноша — в плену паранойи, в своём убежище."
+    },
+    {
+      "source": "Another soul watched them, lost as well.",
+      "translation": "Другая заблудшая душа за ними наблюдала."
+    },
+    {
+      "source": "They followed down to the 7th of Hell.",
+      "translation": "И вслед за ними в седьмой круг ада сошла."
+    },
+    {
+      "source": "In the second ring they fought their own fear.",
+      "translation": "Во втором кольце пришлось сразиться со своим страхом,"
+    },
+    {
+      "source": "In the guise of finding their pet most dear.",
+      "translation": "Под видом поисков любимого питомца."
+    },
+    {
+      "source": "It wants something.",
+      "translation": "Ему что-то нужно."
+    },
+    {
+      "source": "But I don't think I have it.",
+      "translation": "Но, кажется, у меня этого нет."
+    },
+    {
+      "source": "Press [Y] to bark.",
+      "translation": "Нажмите [Y], чтобы залаять."
+    },
+    {
+      "source": "It's too late.",
+      "translation": "Уже слишком поздно."
+    },
+    {
+      "source": "This is your fault.",
+      "translation": "Это твоя вина."
+    },
+    {
+      "source": "You chose this.",
+      "translation": "Ты сам это выбрал."
+    },
+    {
+      "source": "What did you think would happen?",
+      "translation": "А чего ты ожидал?"
+    },
+    {
+      "source": "She's dying.",
+      "translation": "Она умирает."
+    },
+    {
+      "source": "You can't help her.",
+      "translation": "Ты не можешь ей помочь."
+    },
+    {
+      "source": "You're a monster.",
+      "translation": "Ты чудовище."
+    },
+    {
+      "source": "THERE ARE TWO OF US",
+      "translation": "НАС ДВОЕ"
+    },
+    {
+      "source": "BUT ONLY ONE SHALL BE FED",
+      "translation": "НО НАСЫТИТСЯ ЛИШЬ ОДИН"
+    },
+    {
+      "source": "ONE WILL CONSUME",
+      "translation": "ОДИН ПОГЛОТИТ"
+    },
+    {
+      "source": "THE OTHER SHALL DISSOLVE",
+      "translation": "ДРУГОЙ РАСТВОРИТСЯ"
+    },
+    {
+      "source": "IT'S TOO DIFFICULT TO TURN.",
+      "translation": "СЛИШКОМ ТЯЖЕЛО ПОВЕРНУТЬ."
+    },
+    {
+      "source": "SOMETHING HEAVY IS ON THE ROPE.",
+      "translation": "НА ВЕРЁВКЕ ВИСИТ ЧТО-ТО ТЯЖЁЛОЕ."
+    },
+    {
+      "source": "IT'S COMPLETE",
+      "translation": "ВСЁ ГОТОВО"
+    },
+    {
+      "source": "I CAN'T ESCAPE IN THE TRUCK.",
+      "translation": "НА ГРУЗОВИКЕ НЕ ВЫБРАТЬСЯ."
+    },
+    {
+      "source": "I'M LOSING BLOOD",
+      "translation": "Я ИСТЕКАЮ КРОВЬЮ"
+    },
+    {
+      "source": "Broken neck.",
+      "translation": "Сломана шея."
+    },
+    {
+      "source": "Tear it open.",
+      "translation": "Разорви."
+    },
+    {
+      "source": "Bled to death.",
+      "translation": "Смерть от потери крови."
+    },
+    {
+      "source": "Find them.",
+      "translation": "Найди их."
+    },
+    {
+      "source": "Finally",
+      "translation": "Наконец-то"
+    },
+    {
+      "source": "We are",
+      "translation": "Мы"
+    },
+    {
+      "source": "FREE",
+      "translation": "СВОБОДНЫ"
+    },
+    {
+      "source": "Overdosed.",
+      "translation": "Передозировка."
+    },
+    {
+      "source": "HOW DID YOU GET OUT?",
+      "translation": "КАК ТЫ ВЫБРАЛСЯ?"
+    },
+    {
+      "source": "TELL ME!",
+      "translation": "СКАЖИ МНЕ!"
+    },
+    {
+      "source": "It is time.",
+      "translation": "Время пришло."
+    },
+    {
+      "source": "The Door is blocked by heaps of rotting meat.",
+      "translation": "Дверь завалена грудами гниющего мяса."
+    },
+    {
+      "source": "Shot through the skull.",
+      "translation": "Череп прострелен."
+    },
+    {
+      "source": "Choose a good one.",
+      "translation": "Выбери подходящий."
+    },
+    {
+      "source": "A discarded robe?",
+      "translation": "Брошенная мантия?"
+    },
+    {
+      "source": "What",
+      "translation": "Что?"
+    },
+    {
+      "source": "Do you need my assistance?",
+      "translation": "Тебе нужна моя помощь?"
+    },
+    {
+      "source": "I don't really care about you.",
+      "translation": "Вообще-то мне до тебя нет дела."
+    },
+    {
+      "source": "Why don't you go bother someone else?",
+      "translation": "Может, пойдёшь надоедать кому-нибудь другому?"
+    },
+    {
+      "source": "Why don't you come in?",
+      "translation": "Заходи."
+    },
+    {
+      "source": "I don't bite.",
+      "translation": "Я не кусаюсь."
+    },
+    {
+      "source": "Where is it?",
+      "translation": "Где оно?"
+    },
+    {
+      "source": "Have anything for me?",
+      "translation": "У тебя есть что-нибудь для меня?"
+    },
+    {
+      "source": "Hehe.",
+      "translation": "Хе-хе."
+    },
+    {
+      "source": "RancidJohnny: Where are you?",
+      "translation": "RancidJohnny: Где ты?"
+    },
+    {
+      "source": "RancidJohnny: Is anyone there?",
+      "translation": "RancidJohnny: Здесь кто-нибудь есть?"
+    },
+    {
+      "source": "RancidJohnny: Hello?",
+      "translation": "RancidJohnny: Эй?"
+    },
+    {
+      "source": "RancidJohnny: I hear breathing.",
+      "translation": "RancidJohnny: Я слышу дыхание."
+    },
+    {
+      "source": "RancidJohnny: There's a secret room over here.",
+      "translation": "RancidJohnny: Тут есть тайная комната."
+    },
+    {
+      "source": "RancidJohnny: This is my favorite game.",
+      "translation": "RancidJohnny: Это моя любимая игра."
+    },
+    {
+      "source": "If I can’t fix my body then how do I fix my vision of myself. ",
+      "translation": "Если я не могу исправить своё тело, то как мне изменить своё представление о себе? "
+    },
+    {
+      "source": " you don’t judge others so harshly.<br>",
+      "translation": " но к другим вы не столь суровы.<br>"
+    }
+  ]
+}

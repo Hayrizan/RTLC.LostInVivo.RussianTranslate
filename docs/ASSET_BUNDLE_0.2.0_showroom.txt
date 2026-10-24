@@ -1,0 +1,142 @@
+﻿GPU=NVIDIA GeForce RTX 4070 Ti type=Direct3D11
+SOURCE Flesh Ray font=MotorolaScreentype default=16 size=0
+SOURCE Bayagototh (Stump) font=MotorolaScreentype default=16 size=0
+SOURCE Ghost Girl font=MotorolaScreentype default=16 size=0
+SOURCE The Wolf (Baby) font=MotorolaScreentype default=16 size=0
+SOURCE Spooky Bois font=MotorolaScreentype default=16 size=0
+SOURCE The Dark Winged Man font=MotorolaScreentype default=16 size=0
+SOURCE Ghost Train (1/2 scale) font=MotorolaScreentype default=16 size=0
+SOURCE Bayagototh Idol font=MotorolaScreentype default=16 size=0
+SOURCE Wolf font=MotorolaScreentype default=16 size=0
+SOURCE Bag font=MotorolaScreentype default=16 size=0
+SOURCE Followers of Baya font=MotorolaScreentype default=16 size=0
+SOURCE Deadly Sins font=MotorolaScreentype default=16 size=0
+SOURCE Daddy Roach font=MotorolaScreentype default=16 size=0
+SOURCE Dead Soul font=MotorolaScreentype default=16 size=0
+SOURCE Rat Mom (1/5 scale) font=MotorolaScreentype default=16 size=0
+SOURCE Goobles font=MotorolaScreentype default=16 size=0
+SOURCE Greater Wolf font=MotorolaScreentype default=16 size=0
+SOURCE Shoggoth (Boss Form) font=MotorolaScreentype default=16 size=0
+SOURCE Dog Head font=MotorolaScreentype default=16 size=0
+SOURCE Ratman (woke) font=MotorolaScreentype default=16 size=0
+SOURCE The Wolf (5th child of Baya) font=MotorolaScreentype default=16 size=0
+SOURCE Virgil font=MotorolaScreentype default=16 size=0
+SOURCE Starving Bayagototh font=MotorolaScreentype default=16 size=0
+SOURCE Dog Mimic font=MotorolaScreentype default=16 size=0
+SOURCE Dr. Piccinini font=MotorolaScreentype default=16 size=0
+SOURCE Eyeless Hobo font=MotorolaScreentype default=16 size=0
+SOURCE Ratman font=MotorolaScreentype default=16 size=0
+SOURCE Baby font=MotorolaScreentype default=16 size=0
+SOURCE Sotiris font=MotorolaScreentype default=16 size=0
+SOURCE Sloth font=MotorolaScreentype default=16 size=0
+SOURCE Bayagototh font=MotorolaScreentype default=16 size=0
+SOURCE The Siren font=MotorolaScreentype default=16 size=0
+SOURCE Spitter font=MotorolaScreentype default=16 size=0
+SOURCE Leech font=MotorolaScreentype default=16 size=0
+SOURCE Shoggoth font=MotorolaScreentype default=16 size=0
+SOURCE Crispy Heads font=MotorolaScreentype default=16 size=0
+SOURCE Mirror font=MotorolaScreentype default=16 size=0
+SOURCE Priest font=MotorolaScreentype default=16 size=0
+SOURCE Demo Doggo font=MotorolaScreentype default=16 size=0
+SOURCE Daddy font=MotorolaScreentype default=16 size=0
+SOURCE Demon Wolf font=MotorolaScreentype default=16 size=0
+SOURCE Slug Priest font=MotorolaScreentype default=16 size=0
+SOURCE Demo Crispys font=MotorolaScreentype default=16 size=0
+SOURCE Wrath font=MotorolaScreentype default=16 size=0
+SOURCE Your Brain font=MotorolaScreentype default=16 size=0
+SOURCE Childhood Memories font=MotorolaScreentype default=16 size=0
+labels=46; same-row pairs without overlap=51
+RENDER probe Flesh Ray color=RGBA(1.000, 1.000, 1.000, 1.000) materialColor=RGBA(1.000, 1.000, 1.000, 1.000) size=0.8115942 font=RTLC Ithaca bounds=Center: (0.0, 0.0, 5.0), Extents: (0.3, 0.1, 0.0) texture=Font Texture (UnityEngine.Texture2D)
+probe Flesh Ray | Мясной скат | characterSize=0.8115942 | visiblePixels=297 | wallDiff=0
+RENDER probe Bayagototh (Stump) color=RGBA(1.000, 1.000, 1.000, 1.000) materialColor=RGBA(1.000, 1.000, 1.000, 1.000) size=1 font=RTLC Ithaca bounds=Center: (0.0, 0.0, 5.0), Extents: (0.5, 0.1, 0.0) texture=Font Texture (UnityEngine.Texture2D)
+probe Bayagototh (Stump) | Байяготот (пень) | characterSize=1 | visiblePixels=369 | wallDiff=0
+RENDER probe Ghost Girl color=RGBA(1.000, 1.000, 1.000, 1.000) materialColor=RGBA(1.000, 1.000, 1.000, 1.000) size=0.6344086 font=RTLC Ithaca bounds=Center: (0.0, 0.0, 5.0), Extents: (0.3, 0.0, 0.0) texture=Font Texture (UnityEngine.Texture2D)
+probe Ghost Girl | Девочка-призрак | characterSize=0.6344086 | visiblePixels=269 | wallDiff=0
+RENDER probe The Wolf (Baby) color=RGBA(1.000, 1.000, 1.000, 1.000) materialColor=RGBA(1.000, 1.000, 1.000, 1.000) size=1 font=RTLC Ithaca bounds=Center: (0.0, 0.0, 5.0), Extents: (0.4, 0.1, 0.0) texture=Font Texture (UnityEngine.Texture2D)
+probe The Wolf (Baby) | Волк (детёныш) | characterSize=1 | visiblePixels=544 | wallDiff=0
+RENDER probe Spooky Bois color=RGBA(1.000, 1.000, 1.000, 1.000) materialColor=RGBA(1.000, 1.000, 1.000, 1.000) size=0.8780488 font=RTLC Ithaca bounds=Center: (0.0, 0.0, 5.0), Extents: (0.4, 0.1, 0.0) texture=Font Texture (UnityEngine.Texture2D)
+probe Spooky Bois | Жуткие ребята | characterSize=0.8780488 | visiblePixels=448 | wallDiff=0
+RENDER probe The Dark Winged Man color=RGBA(1.000, 1.000, 1.000, 1.000) materialColor=RGBA(1.000, 1.000, 1.000, 1.000) size=0.8145695 font=RTLC Ithaca bounds=Center: (0.0, 0.0, 5.0), Extents: (0.6, 0.0, 0.0) texture=Font Texture (UnityEngine.Texture2D)
+probe The Dark Winged Man | Тёмный крылатый человек | characterSize=0.8145695 | visiblePixels=651 | wallDiff=0
+RENDER probe Ghost Train (1/2 scale) color=RGBA(1.000, 1.000, 1.000, 1.000) materialColor=RGBA(1.000, 1.000, 1.000, 1.000) size=0.8481013 font=RTLC Ithaca bounds=Center: (0.0, 0.0, 5.0), Extents: (0.7, 0.1, 0.0) texture=Font Texture (UnityEngine.Texture2D)
+probe Ghost Train (1/2 scale) | Поезд-призрак (масштаб 1:2) | characterSize=0.8481013 | visiblePixels=762 | wallDiff=0
+RENDER probe Bayagototh Idol color=RGBA(1.000, 1.000, 1.000, 1.000) materialColor=RGBA(1.000, 1.000, 1.000, 1.000) size=1 font=RTLC Ithaca bounds=Center: (0.0, 0.0, 5.0), Extents: (0.5, 0.1, 0.0) texture=Font Texture (UnityEngine.Texture2D)
+probe Bayagototh Idol | Идол Байяготота | characterSize=1 | visiblePixels=382 | wallDiff=0
+RENDER probe Wolf color=RGBA(1.000, 1.000, 1.000, 1.000) materialColor=RGBA(1.000, 1.000, 1.000, 1.000) size=1 font=RTLC Ithaca bounds=Center: (0.0, 0.0, 5.0), Extents: (0.1, 0.1, 0.0) texture=Font Texture (UnityEngine.Texture2D)
+probe Wolf | Волк | characterSize=1 | visiblePixels=171 | wallDiff=0
+RENDER probe Bag color=RGBA(1.000, 1.000, 1.000, 1.000) materialColor=RGBA(1.000, 1.000, 1.000, 1.000) size=0.5945946 font=RTLC Ithaca bounds=Center: (0.0, 0.0, 5.0), Extents: (0.1, 0.0, 0.0) texture=Font Texture (UnityEngine.Texture2D)
+probe Bag | Мешок | characterSize=0.5945946 | visiblePixels=101 | wallDiff=0
+RENDER probe Followers of Baya color=RGBA(1.000, 1.000, 1.000, 1.000) materialColor=RGBA(1.000, 1.000, 1.000, 1.000) size=0.9473684 font=RTLC Ithaca bounds=Center: (0.0, 0.0, 5.0), Extents: (0.5, 0.1, 0.0) texture=Font Texture (UnityEngine.Texture2D)
+probe Followers of Baya | Последователи Байи | characterSize=0.9473684 | visiblePixels=677 | wallDiff=0
+RENDER probe Deadly Sins color=RGBA(1.000, 1.000, 1.000, 1.000) materialColor=RGBA(1.000, 1.000, 1.000, 1.000) size=0.7444444 font=RTLC Ithaca bounds=Center: (0.0, 0.0, 5.0), Extents: (0.3, 0.0, 0.0) texture=Font Texture (UnityEngine.Texture2D)
+probe Deadly Sins | Смертные грехи | characterSize=0.7444444 | visiblePixels=336 | wallDiff=0
+RENDER probe Daddy Roach color=RGBA(1.000, 1.000, 1.000, 1.000) materialColor=RGBA(1.000, 1.000, 1.000, 1.000) size=0.8636364 font=RTLC Ithaca bounds=Center: (0.0, 0.0, 5.0), Extents: (0.4, 0.1, 0.0) texture=Font Texture (UnityEngine.Texture2D)
+probe Daddy Roach | Таракан-папаша | characterSize=0.8636364 | visiblePixels=465 | wallDiff=0
+RENDER probe Dead Soul color=RGBA(1.000, 1.000, 1.000, 1.000) materialColor=RGBA(1.000, 1.000, 1.000, 1.000) size=0.7468355 font=RTLC Ithaca bounds=Center: (0.0, 0.0, 5.0), Extents: (0.3, 0.0, 0.0) texture=Font Texture (UnityEngine.Texture2D)
+probe Dead Soul | Мёртвая душа | characterSize=0.7468355 | visiblePixels=320 | wallDiff=0
+RENDER probe Rat Mom (1/5 scale) color=RGBA(1.000, 1.000, 1.000, 1.000) materialColor=RGBA(1.000, 1.000, 1.000, 1.000) size=0.7142857 font=RTLC Ithaca bounds=Center: (0.0, 0.0, 5.0), Extents: (0.6, 0.1, 0.0) texture=Font Texture (UnityEngine.Texture2D)
+probe Rat Mom (1/5 scale) | Крысиная мать (масштаб 1:5) | characterSize=0.7142857 | visiblePixels=554 | wallDiff=0
+RENDER probe Goobles color=RGBA(1.000, 1.000, 1.000, 1.000) materialColor=RGBA(1.000, 1.000, 1.000, 1.000) size=1 font=RTLC Ithaca bounds=Center: (0.0, 0.0, 5.0), Extents: (0.2, 0.1, 0.0) texture=Font Texture (UnityEngine.Texture2D)
+probe Goobles | Гублы | characterSize=1 | visiblePixels=149 | wallDiff=0
+RENDER probe Greater Wolf color=RGBA(1.000, 1.000, 1.000, 1.000) materialColor=RGBA(1.000, 1.000, 1.000, 1.000) size=1 font=RTLC Ithaca bounds=Center: (0.0, 0.0, 5.0), Extents: (0.4, 0.1, 0.0) texture=Font Texture (UnityEngine.Texture2D)
+probe Greater Wolf | Великий волк | characterSize=1 | visiblePixels=327 | wallDiff=0
+RENDER probe Shoggoth (Boss Form) color=RGBA(1.000, 1.000, 1.000, 1.000) materialColor=RGBA(1.000, 1.000, 1.000, 1.000) size=1 font=RTLC Ithaca bounds=Center: (0.0, 0.0, 5.0), Extents: (0.6, 0.1, 0.0) texture=Font Texture (UnityEngine.Texture2D)
+probe Shoggoth (Boss Form) | Шоггот (форма босса) | characterSize=1 | visiblePixels=498 | wallDiff=0
+RENDER probe Dog Head color=RGBA(1.000, 1.000, 1.000, 1.000) materialColor=RGBA(1.000, 1.000, 1.000, 1.000) size=0.6746988 font=RTLC Ithaca bounds=Center: (0.0, 0.0, 5.0), Extents: (0.3, 0.0, 0.0) texture=Font Texture (UnityEngine.Texture2D)
+probe Dog Head | Собачья голова | characterSize=0.6746988 | visiblePixels=237 | wallDiff=0
+RENDER probe Ratman (woke) color=RGBA(1.000, 1.000, 1.000, 1.000) materialColor=RGBA(1.000, 1.000, 1.000, 1.000) size=0.5207101 font=RTLC Ithaca bounds=Center: (0.0, 0.0, 5.0), Extents: (0.4, 0.0, 0.0) texture=Font Texture (UnityEngine.Texture2D)
+probe Ratman (woke) | Крысочеловек (пробуждённый) | characterSize=0.5207101 | visiblePixels=335 | wallDiff=0
+RENDER probe The Wolf (5th child of Baya) color=RGBA(1.000, 1.000, 1.000, 1.000) materialColor=RGBA(1.000, 1.000, 1.000, 1.000) size=1 font=RTLC Ithaca bounds=Center: (0.0, 0.0, 5.0), Extents: (0.6, 0.1, 0.0) texture=Font Texture (UnityEngine.Texture2D)
+probe The Wolf (5th child of Baya) | Волк (пятое дитя Байи) | characterSize=1 | visiblePixels=755 | wallDiff=0
+RENDER probe Virgil color=RGBA(1.000, 1.000, 1.000, 1.000) materialColor=RGBA(1.000, 1.000, 1.000, 1.000) size=0.5660377 font=RTLC Ithaca bounds=Center: (0.0, 0.0, 5.0), Extents: (0.1, 0.0, 0.0) texture=Font Texture (UnityEngine.Texture2D)
+probe Virgil | Вергилий | characterSize=0.5660377 | visiblePixels=130 | wallDiff=0
+RENDER probe Starving Bayagototh color=RGBA(1.000, 1.000, 1.000, 1.000) materialColor=RGBA(1.000, 1.000, 1.000, 1.000) size=0.9022557 font=RTLC Ithaca bounds=Center: (0.0, 0.0, 5.0), Extents: (0.6, 0.1, 0.0) texture=Font Texture (UnityEngine.Texture2D)
+probe Starving Bayagototh | Голодающий Байяготот | characterSize=0.9022557 | visiblePixels=721 | wallDiff=0
+RENDER probe Dog Mimic color=RGBA(1.000, 1.000, 1.000, 1.000) materialColor=RGBA(1.000, 1.000, 1.000, 1.000) size=0.9193549 font=RTLC Ithaca bounds=Center: (0.0, 0.0, 5.0), Extents: (0.3, 0.1, 0.0) texture=Font Texture (UnityEngine.Texture2D)
+probe Dog Mimic | Пёс-мимик | characterSize=0.9193549 | visiblePixels=363 | wallDiff=0
+RENDER probe Dr. Piccinini color=RGBA(1.000, 1.000, 1.000, 1.000) materialColor=RGBA(1.000, 1.000, 1.000, 1.000) size=0.6534653 font=RTLC Ithaca bounds=Center: (0.0, 0.0, 5.0), Extents: (0.3, 0.1, 0.0) texture=Font Texture (UnityEngine.Texture2D)
+probe Dr. Piccinini | Доктор Пиччинини | characterSize=0.6534653 | visiblePixels=299 | wallDiff=0
+RENDER probe Eyeless Hobo color=RGBA(1.000, 1.000, 1.000, 1.000) materialColor=RGBA(1.000, 1.000, 1.000, 1.000) size=0.8297873 font=RTLC Ithaca bounds=Center: (0.0, 0.0, 5.0), Extents: (0.4, 0.0, 0.0) texture=Font Texture (UnityEngine.Texture2D)
+probe Eyeless Hobo | Бродяга без глаз | characterSize=0.8297873 | visiblePixels=387 | wallDiff=0
+RENDER probe Ratman color=RGBA(1.000, 1.000, 1.000, 1.000) materialColor=RGBA(1.000, 1.000, 1.000, 1.000) size=0.5584416 font=RTLC Ithaca bounds=Center: (0.0, 0.0, 5.0), Extents: (0.2, 0.0, 0.0) texture=Font Texture (UnityEngine.Texture2D)
+probe Ratman | Крысочеловек | characterSize=0.5584416 | visiblePixels=186 | wallDiff=0
+RENDER probe Baby color=RGBA(1.000, 1.000, 1.000, 1.000) materialColor=RGBA(1.000, 1.000, 1.000, 1.000) size=0.5178571 font=RTLC Ithaca bounds=Center: (0.0, 0.0, 5.0), Extents: (0.1, 0.0, 0.0) texture=Font Texture (UnityEngine.Texture2D)
+probe Baby | Младенец | characterSize=0.5178571 | visiblePixels=111 | wallDiff=0
+RENDER probe Sotiris color=RGBA(1.000, 1.000, 1.000, 1.000) materialColor=RGBA(1.000, 1.000, 1.000, 1.000) size=0.8043478 font=RTLC Ithaca bounds=Center: (0.0, 0.0, 5.0), Extents: (0.2, 0.1, 0.0) texture=Font Texture (UnityEngine.Texture2D)
+probe Sotiris | Сотирис | characterSize=0.8043478 | visiblePixels=189 | wallDiff=0
+RENDER probe Sloth color=RGBA(1.000, 1.000, 1.000, 1.000) materialColor=RGBA(1.000, 1.000, 1.000, 1.000) size=1 font=RTLC Ithaca bounds=Center: (0.0, 0.0, 5.0), Extents: (0.1, 0.1, 0.0) texture=Font Texture (UnityEngine.Texture2D)
+probe Sloth | Лень | characterSize=1 | visiblePixels=161 | wallDiff=0
+RENDER probe Bayagototh color=RGBA(1.000, 1.000, 1.000, 1.000) materialColor=RGBA(1.000, 1.000, 1.000, 1.000) size=1 font=RTLC Ithaca bounds=Center: (0.0, 0.0, 5.0), Extents: (0.3, 0.1, 0.0) texture=Font Texture (UnityEngine.Texture2D)
+probe Bayagototh | Байяготот | characterSize=1 | visiblePixels=320 | wallDiff=0
+RENDER probe The Siren color=RGBA(1.000, 1.000, 1.000, 1.000) materialColor=RGBA(1.000, 1.000, 1.000, 1.000) size=1 font=RTLC Ithaca bounds=Center: (0.0, 0.0, 5.0), Extents: (0.2, 0.1, 0.0) texture=Font Texture (UnityEngine.Texture2D)
+probe The Siren | Сирена | characterSize=1 | visiblePixels=239 | wallDiff=0
+RENDER probe Spitter color=RGBA(1.000, 1.000, 1.000, 1.000) materialColor=RGBA(1.000, 1.000, 1.000, 1.000) size=0.5735294 font=RTLC Ithaca bounds=Center: (0.0, 0.0, 5.0), Extents: (0.2, 0.1, 0.0) texture=Font Texture (UnityEngine.Texture2D)
+probe Spitter | Плевальщик | characterSize=0.5735294 | visiblePixels=146 | wallDiff=0
+RENDER probe Leech color=RGBA(1.000, 1.000, 1.000, 1.000) materialColor=RGBA(1.000, 1.000, 1.000, 1.000) size=0.8947368 font=RTLC Ithaca bounds=Center: (0.0, 0.0, 5.0), Extents: (0.2, 0.1, 0.0) texture=Font Texture (UnityEngine.Texture2D)
+probe Leech | Пиявка | characterSize=0.8947368 | visiblePixels=231 | wallDiff=0
+RENDER probe Shoggoth color=RGBA(1.000, 1.000, 1.000, 1.000) materialColor=RGBA(1.000, 1.000, 1.000, 1.000) size=1 font=RTLC Ithaca bounds=Center: (0.0, 0.0, 5.0), Extents: (0.2, 0.1, 0.0) texture=Font Texture (UnityEngine.Texture2D)
+probe Shoggoth | Шоггот | characterSize=1 | visiblePixels=160 | wallDiff=0
+RENDER probe Crispy Heads color=RGBA(1.000, 1.000, 1.000, 1.000) materialColor=RGBA(1.000, 1.000, 1.000, 1.000) size=0.6759259 font=RTLC Ithaca bounds=Center: (0.0, 0.0, 5.0), Extents: (0.4, 0.0, 0.0) texture=Font Texture (UnityEngine.Texture2D)
+probe Crispy Heads | Обугленные головы | characterSize=0.6759259 | visiblePixels=322 | wallDiff=0
+RENDER probe Mirror color=RGBA(1.000, 1.000, 1.000, 1.000) materialColor=RGBA(1.000, 1.000, 1.000, 1.000) size=0.7954546 font=RTLC Ithaca bounds=Center: (0.0, 0.0, 5.0), Extents: (0.2, 0.0, 0.0) texture=Font Texture (UnityEngine.Texture2D)
+probe Mirror | Зеркало | characterSize=0.7954546 | visiblePixels=193 | wallDiff=0
+RENDER probe Priest color=RGBA(1.000, 1.000, 1.000, 1.000) materialColor=RGBA(1.000, 1.000, 1.000, 1.000) size=1 font=RTLC Ithaca bounds=Center: (0.0, 0.0, 5.0), Extents: (0.1, 0.1, 0.0) texture=Font Texture (UnityEngine.Texture2D)
+probe Priest | Жрец | characterSize=1 | visiblePixels=145 | wallDiff=0
+RENDER probe Demo Doggo color=RGBA(1.000, 1.000, 1.000, 1.000) materialColor=RGBA(1.000, 1.000, 1.000, 1.000) size=0.6355932 font=RTLC Ithaca bounds=Center: (0.0, 0.0, 5.0), Extents: (0.4, 0.0, 0.0) texture=Font Texture (UnityEngine.Texture2D)
+probe Demo Doggo | Пёсик из демоверсии | characterSize=0.6355932 | visiblePixels=323 | wallDiff=0
+RENDER probe Daddy color=RGBA(1.000, 1.000, 1.000, 1.000) materialColor=RGBA(1.000, 1.000, 1.000, 1.000) size=0.8604651 font=RTLC Ithaca bounds=Center: (0.0, 0.0, 5.0), Extents: (0.2, 0.1, 0.0) texture=Font Texture (UnityEngine.Texture2D)
+probe Daddy | Папочка | characterSize=0.8604651 | visiblePixels=237 | wallDiff=0
+RENDER probe Demon Wolf color=RGBA(1.000, 1.000, 1.000, 1.000) materialColor=RGBA(1.000, 1.000, 1.000, 1.000) size=0.6513761 font=RTLC Ithaca bounds=Center: (0.0, 0.0, 5.0), Extents: (0.4, 0.0, 0.0) texture=Font Texture (UnityEngine.Texture2D)
+probe Demon Wolf | Демонический волк | characterSize=0.6513761 | visiblePixels=324 | wallDiff=0
+RENDER probe Slug Priest color=RGBA(1.000, 1.000, 1.000, 1.000) materialColor=RGBA(1.000, 1.000, 1.000, 1.000) size=0.7948718 font=RTLC Ithaca bounds=Center: (0.0, 0.0, 5.0), Extents: (0.3, 0.0, 0.0) texture=Font Texture (UnityEngine.Texture2D)
+probe Slug Priest | Жрец-слизень | characterSize=0.7948718 | visiblePixels=327 | wallDiff=0
+RENDER probe Demo Crispys color=RGBA(1.000, 1.000, 1.000, 1.000) materialColor=RGBA(1.000, 1.000, 1.000, 1.000) size=0.5099338 font=RTLC Ithaca bounds=Center: (0.0, 0.0, 5.0), Extents: (0.4, 0.0, 0.0) texture=Font Texture (UnityEngine.Texture2D)
+probe Demo Crispys | Обугленные из демоверсии | characterSize=0.5099338 | visiblePixels=265 | wallDiff=0
+RENDER probe Wrath color=RGBA(1.000, 1.000, 1.000, 1.000) materialColor=RGBA(1.000, 1.000, 1.000, 1.000) size=1 font=RTLC Ithaca bounds=Center: (0.0, 0.0, 5.0), Extents: (0.1, 0.1, 0.0) texture=Font Texture (UnityEngine.Texture2D)
+probe Wrath | Гнев | characterSize=1 | visiblePixels=130 | wallDiff=0
+RENDER probe Your Brain color=RGBA(1.000, 1.000, 1.000, 1.000) materialColor=RGBA(1.000, 1.000, 1.000, 1.000) size=1 font=RTLC Ithaca bounds=Center: (0.0, 0.0, 5.0), Extents: (0.3, 0.1, 0.0) texture=Font Texture (UnityEngine.Texture2D)
+probe Your Brain | Твой мозг | characterSize=1 | visiblePixels=219 | wallDiff=0
+RENDER probe Childhood Memories color=RGBA(1.000, 1.000, 1.000, 1.000) materialColor=RGBA(1.000, 1.000, 1.000, 1.000) size=0.9055118 font=RTLC Ithaca bounds=Center: (0.0, 0.0, 5.0), Extents: (0.6, 0.1, 0.0) texture=Font Texture (UnityEngine.Texture2D)
+probe Childhood Memories | Детские воспоминания | characterSize=0.9055118 | visiblePixels=720 | wallDiff=0
+visible=46; opaque-wall checks=46
+RESULT=PASS

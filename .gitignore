@@ -1,0 +1,14 @@
+# Local artifacts
+bin/
+obj/
+.cache/
+artifacts/
+dist/
+*.user
+*.log
+*.pdb
+__pycache__/
+liv_*.png
+test_*.png
+
+build/

@@ -1,0 +1,21 @@
+﻿GLYPH Ы y=5..49 -> -1..43 advance=36
+GLYPH Я y=5..49 -> -1..43 advance=36
+PASS native Cyrillic alphabet: only Ы/Я move down 6 pixels at 48pt; all advances and other glyph metrics unchanged
+originalFont=HoneyRoom dynamic=True fontSize=16 lineHeight=17
+L size=0 valid=False advance=0 bounds=0,0..0,0
+L size=48 valid=False advance=0 bounds=0,0..0,0
+PAIR DARK_hos1 | WHY AM I HERE | ПОЧЕМУ Я ЗДЕСЬ | EN_PX=(418.0, 57.0) | RU_OLD_PX=(551.0, 82.0) | RU_FIT_PX=(387.0, 58.0) | EN_GLYPHS=(347.0, 35.0) | scalar=0.700000
+PAIR DARK_hos1 | LET ME OUT | ВЫПУСТИТЕ МЕНЯ | EN_PX=(334.0, 57.0) | RU_OLD_PX=(581.0, 72.0) | RU_FIT_PX=(334.0, 42.0) | EN_GLYPHS=(278.0, 35.0) | scalar=0.576764
+PAIR DARK_hos1 | SOMETHING'S WRONG WITH THEM | С НИМИ ЧТО-ТО НЕ ТАК | EN_PX=(800.0, 57.0) | RU_OLD_PX=(761.0, 72.0) | RU_FIT_PX=(606.0, 58.0) | EN_GLYPHS=(761.0, 35.0) | scalar=0.795455
+PAIR DARK_hos1 | AM I SICK | Я БОЛЕН? | EN_PX=(250.0, 57.0) | RU_OLD_PX=(320.0, 72.0) | RU_FIT_PX=(251.0, 57.0) | EN_GLYPHS=(209.0, 35.0) | scalar=0.785714
+PAIR DARK_hos1 alt | I'M NOT SICK | Я НЕ БОЛЕН | EN_PX=(338.0, 57.0) | RU_OLD_PX=(385.0, 72.0) | RU_FIT_PX=(306.0, 58.0) | EN_GLYPHS=(281.0, 35.0) | scalar=0.795455
+PAIR DARK_cabin1 | HAVE TO PRAY TO IT /GIVES US FLESH | НАДО МОЛИТЬСЯ ЕМУ /ОН ДАЁТ НАМ ПЛОТЬ | EN_PX=(584.0, 145.0) | RU_OLD_PX=(681.0, 214.0) | RU_FIT_PX=(458.0, 144.0) | EN_GLYPHS=(488.0, 86.0) | scalar=0.671875
+PAIR DARK_cabin1 | BURN THE IDOL /MUST STOP IT | СОЖГИ ИДОЛА /НАДО ОСТАНОВИТЬ ЕГО | EN_PX=(412.0, 145.0) | RU_OLD_PX=(769.0, 204.0) | RU_FIT_PX=(414.0, 110.0) | EN_GLYPHS=(344.0, 86.0) | scalar=0.539185
+PAIR DARK_cabin1 | NO FOOD LEFT | ЕДЫ БОЛЬШЕ НЕТ | EN_PX=(396.0, 57.0) | RU_OLD_PX=(551.0, 82.0) | RU_FIT_PX=(387.0, 58.0) | EN_GLYPHS=(329.0, 35.0) | scalar=0.700000
+PAIR DARK_cabin1 | TOOK OUR SON | ЗАБРАЛО НАШЕГО СЫНА | EN_PX=(418.0, 57.0) | RU_OLD_PX=(776.0, 72.0) | RU_FIT_PX=(418.0, 39.0) | EN_GLYPHS=(347.0, 35.0) | scalar=0.538820
+PAIR DARK_hotel | HAVE TO PRAY TO IT /GIVES US FLESH | НАДО МОЛИТЬСЯ ЕМУ /ОН ДАЁТ НАМ ПЛОТЬ | EN_PX=(584.0, 145.0) | RU_OLD_PX=(681.0, 214.0) | RU_FIT_PX=(458.0, 144.0) | EN_GLYPHS=(488.0, 86.0) | scalar=0.671875
+PAIR DARK_hotel | IT'S A NIGHTMARE | ЭТО КОШМАР | EN_PX=(494.0, 57.0) | RU_OLD_PX=(407.0, 82.0) | RU_FIT_PX=(285.0, 58.0) | EN_GLYPHS=(410.0, 35.0) | scalar=0.700000
+PAIR DARK_hotel | LET ME SLEEP | ДАЙ МНЕ УСНУТЬ | EN_PX=(384.0, 57.0) | RU_OLD_PX=(551.0, 92.0) | RU_FIT_PX=(345.0, 58.0) | EN_GLYPHS=(320.0, 35.0) | scalar=0.625000
+PAIR DARK_hotel | I CAN'T WAKE UP | Я НЕ МОГУ ПРОСНУТЬСЯ | EN_PX=(472.0, 57.0) | RU_OLD_PX=(791.0, 82.0) | RU_FIT_PX=(472.0, 50.0) | EN_GLYPHS=(392.0, 35.0) | scalar=0.597561
+pairs_checked=13
+RESULT=PASS

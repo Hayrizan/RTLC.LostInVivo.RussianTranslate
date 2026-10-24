@@ -1,0 +1,35 @@
+﻿Package=DLL+rtlc.bundle; strings=617; rules=33; textures=68
+Binary sources byte-exact=77
+RASTER Ithaca size=16 changed=0 thresholdShapeDiff=0 maxDelta=0 nativeFilter=Bilinear oldFilter=Bilinear
+RASTER Ithaca size=32 changed=0 thresholdShapeDiff=0 maxDelta=0 nativeFilter=Bilinear oldFilter=Bilinear
+RASTER Ithaca size=48 changed=0 thresholdShapeDiff=0 maxDelta=0 nativeFilter=Bilinear oldFilter=Bilinear
+FONT Ithaca metricDifferences=0 glyph comparisons=306; raster compared at16/32/48; visiblePixels=14746
+TRANSPARENT_ATLAS_PADDING Fixedsys A16: 1px ring; advance identical; full alphabet raster checked below
+RASTER Fixedsys Excelsior size=16 changed=0 thresholdShapeDiff=0 maxDelta=0 nativeFilter=Bilinear oldFilter=Bilinear
+RASTER Fixedsys Excelsior size=32 changed=0 thresholdShapeDiff=0 maxDelta=0 nativeFilter=Bilinear oldFilter=Bilinear
+RASTER Fixedsys Excelsior size=48 changed=0 thresholdShapeDiff=0 maxDelta=0 nativeFilter=Bilinear oldFilter=Bilinear
+FONT Fixedsys Excelsior metricDifferences=1 glyph comparisons=306; raster compared at16/32/48; visiblePixels=15126
+RASTER MrPixel size=16 changed=0 thresholdShapeDiff=0 maxDelta=0 nativeFilter=Bilinear oldFilter=Bilinear
+RASTER MrPixel size=32 changed=0 thresholdShapeDiff=0 maxDelta=0 nativeFilter=Bilinear oldFilter=Bilinear
+RASTER MrPixel size=48 changed=0 thresholdShapeDiff=0 maxDelta=0 nativeFilter=Bilinear oldFilter=Bilinear
+FONT MrPixel metricDifferences=0 glyph comparisons=306; raster compared at16/32/48; visiblePixels=29048
+RASTER MrPixel RTLC size=16 changed=0 thresholdShapeDiff=0 maxDelta=0 nativeFilter=Bilinear oldFilter=Bilinear
+RASTER MrPixel RTLC size=32 changed=0 thresholdShapeDiff=0 maxDelta=0 nativeFilter=Bilinear oldFilter=Bilinear
+RASTER MrPixel RTLC size=48 changed=0 thresholdShapeDiff=0 maxDelta=0 nativeFilter=Bilinear oldFilter=Bilinear
+FONT MrPixel RTLC metricDifferences=0 glyph comparisons=306; raster compared at16/32/48; visiblePixels=29048
+RASTER GothicRus Condenced size=16 changed=0 thresholdShapeDiff=0 maxDelta=0 nativeFilter=Bilinear oldFilter=Bilinear
+RASTER GothicRus Condenced size=32 changed=0 thresholdShapeDiff=0 maxDelta=0 nativeFilter=Bilinear oldFilter=Bilinear
+RASTER GothicRus Condenced size=48 changed=0 thresholdShapeDiff=0 maxDelta=0 nativeFilter=Bilinear oldFilter=Bilinear
+FONT GothicRus Condenced metricDifferences=0 glyph comparisons=306; raster compared at16/32/48; visiblePixels=27942
+RASTER Liberation Serif size=16 changed=0 thresholdShapeDiff=0 maxDelta=0 nativeFilter=Bilinear oldFilter=Bilinear
+RASTER Liberation Serif size=32 changed=0 thresholdShapeDiff=0 maxDelta=0 nativeFilter=Bilinear oldFilter=Bilinear
+RASTER Liberation Serif size=48 changed=0 thresholdShapeDiff=0 maxDelta=0 nativeFilter=Bilinear oldFilter=Bilinear
+FONT Liberation Serif metricDifferences=0 glyph comparisons=306; raster compared at16/32/48; visiblePixels=17607
+RASTER Noto Sans size=16 changed=0 thresholdShapeDiff=0 maxDelta=0 nativeFilter=Bilinear oldFilter=Bilinear
+RASTER Noto Sans size=32 changed=0 thresholdShapeDiff=0 maxDelta=0 nativeFilter=Bilinear oldFilter=Bilinear
+RASTER Noto Sans size=48 changed=0 thresholdShapeDiff=0 maxDelta=0 nativeFilter=Bilinear oldFilter=Bilinear
+FONT Noto Sans metricDifferences=0 glyph comparisons=306; raster compared at16/32/48; visiblePixels=19928
+TMP atlas Ithaca alphabet=PASS
+TMP atlas NotoSans-Regular alphabet=PASS
+Diagnostics outside plugin folder=PASS
+RESULT=PASS

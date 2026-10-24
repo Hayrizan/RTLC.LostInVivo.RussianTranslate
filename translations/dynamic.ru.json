@@ -1,0 +1,108 @@
+{
+  "entries": [
+    {
+      "source": "Beetle Emblem picked up.",
+      "translation": "Подобрано: Эмблема жука."
+    },
+    {
+      "source": "Bomb Emblem picked up.",
+      "translation": "Подобрано: Эмблема бомбы."
+    },
+    {
+      "source": "Damaged Handgun picked up.",
+      "translation": "Подобрано: Повреждённый пистолет."
+    },
+    {
+      "source": "Doll Head picked up.",
+      "translation": "Подобрано: Голова куклы."
+    },
+    {
+      "source": "Eyeless_Body.fbx picked up.",
+      "translation": "Подобрано: Тело_без_глаз.fbx."
+    },
+    {
+      "source": "Lost Tape #2 picked up.",
+      "translation": "Подобрано: Кассета № 2."
+    },
+    {
+      "source": "Lost Tape #3 picked up.",
+      "translation": "Подобрано: Кассета № 3."
+    },
+    {
+      "source": "Lost Tape #4 picked up.",
+      "translation": "Подобрано: Кассета № 4."
+    },
+    {
+      "source": "Metro key picked up.",
+      "translation": "Подобрано: Ключ от метро."
+    },
+    {
+      "source": "Mine access key picked up.",
+      "translation": "Подобрано: Ключ от шахты."
+    },
+    {
+      "source": "Missing Left Eye picked up.",
+      "translation": "Подобрано: Чей-то левый глаз."
+    },
+    {
+      "source": "Moon Emblem picked up.",
+      "translation": "Подобрано: Эмблема луны."
+    },
+    {
+      "source": "Old Kitchen Knife picked up.",
+      "translation": "Подобрано: Старый кухонный нож."
+    },
+    {
+      "source": "Picklock Set picked up.",
+      "translation": "Подобрано: Набор отмычек."
+    },
+    {
+      "source": "Shotgun picked up.",
+      "translation": "Подобрано: Дробовик."
+    },
+    {
+      "source": "Sledgehammer picked up.",
+      "translation": "Подобрано: Кувалда."
+    },
+    {
+      "source": "Train office key picked up.",
+      "translation": "Подобрано: Ключ от диспетчерской."
+    },
+    {
+      "source": "Ruger ammo picked up.",
+      "translation": "Подобраны патроны для пистолета."
+    },
+    {
+      "source": "Shotgun ammo picked up.",
+      "translation": "Подобраны патроны для дробовика."
+    },
+    {
+      "source": "Pizza ammo picked up.",
+      "translation": "Пицца съедена."
+    },
+    {
+      "source": "I waited in the dark for so long.",
+      "translation": "Я так долго ждала во тьме."
+    },
+    {
+      "source": "I lashed out against anyone who got close.",
+      "translation": "Я бросалась на каждого, кто подходил ближе."
+    },
+    {
+      "source": "But someone kept pushing me into the light.",
+      "translation": "Но кто-то упорно вёл меня к свету."
+    },
+    {
+      "source": "It hurt me for a while.",
+      "translation": "Поначалу мне было больно."
+    },
+    {
+      "source": "It doesn’t hurt anymore.",
+      "translation": "Теперь больше не больно."
+    },
+    {
+      "source": "It doesn't hurt anymore.",
+      "translation": "Теперь больше не больно."
+    }
+  ]
+}

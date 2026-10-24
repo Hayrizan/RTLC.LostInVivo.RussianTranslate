@@ -1,0 +1,14 @@
+{
+  "result": "PASS",
+  "installed_entries": [
+    "RTLC.LostInVivo.RussianTranslate.dll",
+    "rtlc.bundle"
+  ],
+  "source_backup": "<GAME_DIR>\\BepInEx\\backups\\RTLC.LostInVivo.RussianTranslate_loose_20261024_173358_aecda4",
+  "backup_files_verified": 95,
+  "hashes": {
+    "rtlc.bundle": "2bdc4efeec62e554aff0230e380a2f8de46c0ca4e996077029475192e2404ff4",
+    "RTLC.LostInVivo.RussianTranslate.dll": "8ac0a215e3a0948419586ac0d5e4c87161ccc39f8613017a18a6143f71790c13"
+  },
+  "zip_payload_files": 2
+}

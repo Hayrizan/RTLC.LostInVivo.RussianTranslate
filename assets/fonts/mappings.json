@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "original": "LiberationSans SDF",
+      "atlas": "NotoSans-Regular"
+    },
+    {
+      "original": "LiberationSans SDF2",
+      "atlas": "NotoSans-Regular"
+    },
+    {
+      "original": "MotorolaScreentype SDF",
+      "atlas": "Ithaca"
+    },
+    {
+      "original": "MotorolaScreentype SDF2",
+      "atlas": "Ithaca"
+    },
+    {
+      "original": "MotorolaScreentype",
+      "osFamily": "Ithaca"
+    },
+    {
+      "original": "Motorola ScreenType",
+      "osFamily": "Ithaca"
+    },
+    {
+      "original": "novem___",
+      "osFamily": "Fixedsys Excelsior"
+    },
+    {
+      "original": "November",
+      "osFamily": "Fixedsys Excelsior"
+    },
+    {
+      "original": "HoneyRoom",
+      "osFamily": "MrPixel RTLC"
+    },
+    {
+      "original": "Honey Room",
+      "osFamily": "MrPixel RTLC"
+    },
+    {
+      "original": "Ysgarth",
+      "osFamily": "GothicRus Condenced"
+    },
+    {
+      "original": "Tsulehisanvhi",
+      "osFamily": "Liberation Serif"
+    },
+    {
+      "original": "Arial",
+      "osFamily": "Ithaca"
+    }
+  ]
+}

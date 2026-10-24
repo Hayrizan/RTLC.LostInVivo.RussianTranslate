@@ -1,0 +1,668 @@
+{
+  "entries": [
+    {
+      "source": "30 coins of silver",
+      "translation": "30 серебряных монет"
+    },
+    {
+      "source": "The path is open",
+      "translation": "Путь открыт"
+    },
+    {
+      "source": "USE",
+      "translation": "ИСПОЛЬЗОВАТЬ"
+    },
+    {
+      "source": "The station is open now.",
+      "translation": "Теперь станция открыта."
+    },
+    {
+      "source": "Ammo : ",
+      "translation": "Патроны: "
+    },
+    {
+      "source": "PICK UP",
+      "translation": "ПОДОБРАТЬ"
+    },
+    {
+      "source": "PICKUP",
+      "translation": "ПОДОБРАТЬ"
+    },
+    {
+      "source": " ammo picked up.",
+      "translation": " — патроны подобраны."
+    },
+    {
+      "source": "NOM",
+      "translation": "НЯМ"
+    },
+    {
+      "source": "OPEN",
+      "translation": "ОТКРЫТЬ"
+    },
+    {
+      "source": "Unlocked",
+      "translation": "Отперто"
+    },
+    {
+      "source": "Player RancidJohnny has joined the server",
+      "translation": "Игрок RancidJohnny присоединился к серверу"
+    },
+    {
+      "source": "Player RancidJohnny has been made admin",
+      "translation": "Игрок RancidJohnny назначен администратором"
+    },
+    {
+      "source": " has died",
+      "translation": " погиб"
+    },
+    {
+      "source": " has died\n",
+      "translation": " погиб\n"
+    },
+    {
+      "source": ": Help me!",
+      "translation": ": Помогите!"
+    },
+    {
+      "source": "EXAMINE",
+      "translation": "ОСМОТРЕТЬ"
+    },
+    {
+      "source": "NO FOOD LEFT",
+      "translation": "ЕДЫ БОЛЬШЕ НЕТ"
+    },
+    {
+      "source": "HAVE TO PRAY TO IT \nGIVES US FLESH",
+      "translation": "НАДО МОЛИТЬСЯ ЕМУ \nОН ДАЁТ НАМ ПЛОТЬ"
+    },
+    {
+      "source": "BURN THE IDOL \nMUST STOP IT",
+      "translation": "СОЖГИ ИДОЛА \nНАДО ОСТАНОВИТЬ ЕГО"
+    },
+    {
+      "source": "GET IN",
+      "translation": "СЕСТЬ"
+    },
+    {
+      "source": "TURN ON",
+      "translation": "ВКЛЮЧИТЬ"
+    },
+    {
+      "source": "TURN OFF",
+      "translation": "ВЫКЛЮЧИТЬ"
+    },
+    {
+      "source": "Lost Tape #5\nTHE WOLF",
+      "translation": "Кассета № 5\nВОЛК"
+    },
+    {
+      "source": "BY: KIRA\nHowls and screams echo through the twisted old branches of the overgrown campground. A history of unresolved violence keeps many away from this place, but regardless you find yourself trapped here. Something sinister is stalking through the woods, and you seek to escape.",
+      "translation": "АВТОР: KIRA\nСреди искривлённых старых ветвей, поглотивших заброшенный кемпинг, разносится эхо воя и криков. Память о жестокости, так и оставшейся безнаказанной, отпугивает отсюда людей. Но вы всё же оказались в этой ловушке. В лесу бродит нечто зловещее, а вы ищете путь к спасению."
+    },
+    {
+      "source": "Lost Tape #6\nTHE WAY OUT",
+      "translation": "Кассета № 6\nВЫХОД"
+    },
+    {
+      "source": "BY: MrKravin\nYou don't count the days any more. The light that you occasionally see from the window.. the breeze you can sometimes feel... those are gone. You've been offered a way out... Will you take it?",
+      "translation": "АВТОР: MrKravin\nВы давно перестали считать дни. Свет, который изредка пробивался в окно... дуновение ветра, которое порой удавалось ощутить... Всё это осталось в прошлом. Вам предложили выход... Воспользуетесь ли вы им?"
+    },
+    {
+      "source": "Lost Tape #7\nBLANK",
+      "translation": "Кассета № 7\nПУСТО"
+    },
+    {
+      "source": "Lost Tape #8\nBLANK",
+      "translation": "Кассета № 8\nПУСТО"
+    },
+    {
+      "source": "Lost Tape #9\nBLANK",
+      "translation": "Кассета № 9\nПУСТО"
+    },
+    {
+      "source": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "translation": "Описание отсутствует."
+    },
+    {
+      "source": "EAT",
+      "translation": "СЪЕСТЬ"
+    },
+    {
+      "source": "PUKE",
+      "translation": "ВЫРВАТЬ"
+    },
+    {
+      "source": "PLACE EMBLEM",
+      "translation": "ВСТАВИТЬ ЭМБЛЕМУ"
+    },
+    {
+      "source": " picked up.",
+      "translation": " — предмет подобран."
+    },
+    {
+      "source": "\n\n     I waited in the dark for so long.\n     I lashed out against anyone who got close.\n\n     But someone kept pushing me into the light.\n     It hurt me for a while.\n\n     It doesn’t hurt anymore.",
+      "translation": "\n\n     Я так долго ждала во тьме.\n     Я бросалась на каждого, кто подходил ближе.\n\n     Но кто-то упорно вёл меня к свету.\n     Поначалу мне было больно.\n\n     Теперь больше не больно."
+    },
+    {
+      "source": "Health : 0",
+      "translation": "Здоровье: 0"
+    },
+    {
+      "source": "Health : ",
+      "translation": "Здоровье: "
+    },
+    {
+      "source": "Press F1 for controls",
+      "translation": "Нажмите F1, чтобы посмотреть управление"
+    },
+    {
+      "source": "Mouse 1 : fire weapon\nMouse 2 : raise sights or block\nMouse 3 or C : toggle camera mode\nW : forward\nS : backward\nA : strafe left\nD : strafe right\nLeft Shift : sprint\nLeft Ctrl : crouch\nX : prone\nQ : lean left\nE : lean right\nSpace : jump\nF : use item, move item, move NPC\nR : reload\nB : fire mode\nH : holster weapon\nBackspace : drop weapon\nG : throw grenade\nBackslash : select grenade\nV : melee attack\nT : enter bullet time\nZ : toggle deadzone aiming\nEsc or F2: Main Menu\nTab : Pause\n",
+      "translation": "Mouse 1: выстрел\nMouse 2: прицеливание или блок\nMouse 3 или C: сменить вид камеры\nW: вперёд\nS: назад\nA: влево\nD: вправо\nLeft Shift: бег\nLeft Ctrl: присесть\nX: лечь\nQ: наклониться влево\nE: наклониться вправо\nSpace: прыжок\nF: использовать или передвинуть предмет, передвинуть NPC\nR: перезарядить\nB: режим огня\nH: убрать оружие\nBackspace: выбросить оружие\nG: бросить гранату\nBackslash: выбрать гранату\nV: удар в ближнем бою\nT: замедление времени\nZ: свободное прицеливание\nEsc или F2: главное меню\nTab: пауза\n"
+    },
+    {
+      "source": "Hunger : ",
+      "translation": "Голод: "
+    },
+    {
+      "source": "INVENTORY FULL",
+      "translation": "ИНВЕНТАРЬ ПОЛОН"
+    },
+    {
+      "source": "Health:",
+      "translation": "Здоровье:"
+    },
+    {
+      "source": "Time:",
+      "translation": "Время:"
+    },
+    {
+      "source": "A wet sledgehammer I found in the sewers. It looks old, but it’s holding up well. Press up/down to change skins.",
+      "translation": "Мокрая кувалда, которую я нашёл в канализации. Старая, но ещё крепкая. Нажимайте вверх/вниз, чтобы изменить её вид."
+    },
+    {
+      "source": "A wet sledgehammer I found in the sewers. It looks old, but it’s holding up well.",
+      "translation": "Мокрая кувалда, которую я нашёл в канализации. Старая, но ещё крепкая."
+    },
+    {
+      "source": "An old military flashlight. I always keep it with me in case I get trapped somewhere. I can’t bare to leave the house without it. The batteries are long lasting and had (guaranteed to last all game!) written on the package.",
+      "translation": "Старый армейский фонарь. Всегда ношу его с собой на случай, если где-нибудь окажусь взаперти. Не могу заставить себя выйти из дома без него. Батарейки служат долго. На упаковке было написано: «Гарантированно хватит на всю игру!»"
+    },
+    {
+      "source": "An old military flashlight. I always keep it with me in case I get trapped somewhere. I can’t bare to leave the house without it. The batteries are long lasting and had (guaranteed to last all game!) written on the package. Whatever that means.",
+      "translation": "Старый армейский фонарь. Всегда ношу его с собой на случай, если где-нибудь окажусь взаперти. Не могу заставить себя выйти из дома без него. Батарейки служат долго. На упаковке было написано: «Гарантированно хватит на всю игру!» Что бы это ни значило."
+    },
+    {
+      "source": "My dog’s leash. It got torn on the broken sewer grate.",
+      "translation": "Поводок моей собаки. Он порвался о сломанную решётку водостока."
+    },
+    {
+      "source": "A damaged handgun, I wonder what it was doing down here.",
+      "translation": "Повреждённый пистолет. Интересно, как он здесь оказался."
+    },
+    {
+      "source": "A riot police issue shotgun. It only fires rock salt rounds so I don’t think it’ll do much damage. Press up/down to change skins.",
+      "translation": "Полицейский дробовик для подавления беспорядков. Стреляет только патронами с крупной солью, так что вряд ли нанесёт серьёзный урон. Нажимайте вверх/вниз, чтобы изменить его вид."
+    },
+    {
+      "source": "A riot police issue shotgun. It only fires rock salt rounds so I don’t think it’ll do much damage.",
+      "translation": "Полицейский дробовик для подавления беспорядков. Стреляет только патронами с крупной солью, так что вряд ли нанесёт серьёзный урон."
+    },
+    {
+      "source": "The key ring that holds all the keys I have.",
+      "translation": "Связка всех найденных мной ключей."
+    },
+    {
+      "source": "A lockpick set with a pick and a turner. They look very brittle.",
+      "translation": "Набор из отмычки и натяжителя. Выглядят очень хрупкими."
+    },
+    {
+      "source": " sets of lockpicks with a pick and a turner. They look very brittle.",
+      "translation": " — наборы из отмычки и натяжителя. Выглядят очень хрупкими."
+    },
+    {
+      "source": "A small metal emblem with an engraving of a beetle. 'Endless life but at the cost of blood' is engraved on the back with small font.",
+      "translation": "Небольшая металлическая эмблема с изображением жука. На обороте мелко выгравировано: «Вечная жизнь ценой крови»."
+    },
+    {
+      "source": "A small metal emblem with an engraving of a bomb. 'Stuck in suspension, a tragedy to repeat itself, a ghost' is engraved on the back with small font.",
+      "translation": "Небольшая металлическая эмблема с изображением бомбы. На обороте мелко выгравировано: «Застывший в ожидании призрак трагедии, обречённой повторяться»."
+    },
+    {
+      "source": "A small metal emblem with an engraving of a crescent moon. 'Born from the moon, destined to age and die should they not return' is engraved on the back with small font.",
+      "translation": "Небольшая металлическая эмблема с изображением полумесяца. На обороте мелко выгравировано: «Рождённым луной суждено состариться и умереть, если они не вернутся»."
+    },
+    {
+      "source": "An old tape I found at home. If I find a tape player I should listen to it. The Pound is written on it.",
+      "translation": "Старая кассета, которую я нашёл дома. Стоит послушать её, если найду магнитофон. На ней написано: «Приют»."
+    },
+    {
+      "source": "It smells like chemicals. The Clinic is written on it.",
+      "translation": "Пахнет химикатами. На ней написано: «Клиника»."
+    },
+    {
+      "source": "The plastic casing feels loose like someone took it apart several times. The Cabin is written on it.",
+      "translation": "Пластиковый корпус разболтался, словно его не раз разбирали. На нём написано: «Хижина»."
+    },
+    {
+      "source": "It smells awful and the plastic is covered in a thin sticky substance. The word Hotel has been stuck to it with a stiff red tape.",
+      "translation": "Отвратительно пахнет. Пластик покрыт тонким слоем чего-то липкого. Надпись «Отель» приклеена к кассете красной изолентой."
+    },
+    {
+      "source": "A small doll head made from some sort of soft porcelain. I can hear something rattling around inside it.",
+      "translation": "Маленькая кукольная голова из какого-то мягкого фарфора. Внутри что-то перекатывается и гремит."
+    },
+    {
+      "source": "Debug.Log (DESCRIPTOR MISSING)",
+      "translation": "Debug.Log (ОПИСАНИЕ ОТСУТСТВУЕТ)"
+    },
+    {
+      "source": "Someone’s missing left eye. It still has bits of the optic nerve and muscle tissue stuck to it.",
+      "translation": "Чей-то вырванный левый глаз. На нём ещё остались обрывки зрительного нерва и мышечной ткани."
+    },
+    {
+      "source": "An antique knife used for preparing vegetables. It’s slightly rusted and feels heavier than it looks. Press up/down to change skins.",
+      "translation": "Старинный нож для нарезки овощей. Слегка заржавел. Тяжелее, чем кажется. Нажимайте вверх/вниз, чтобы изменить его вид."
+    },
+    {
+      "source": "An antique knife used for preparing vegetables. It’s slightly rusted and feels heavier than it looks.",
+      "translation": "Старинный нож для нарезки овощей. Слегка заржавел. Тяжелее, чем кажется."
+    },
+    {
+      "source": "A small deformed skull, seemingly belonging to a child. Although devoid of flesh and dry, it has a strange odor coming from it. A sweet but nauseous smell that lingers in my nostrils.",
+      "translation": "Маленький деформированный череп. Похоже, детский. Он сухой, и плоти на нём не осталось, но от него исходит странный запах. Сладковатый и тошнотворный, он надолго въедается в ноздри."
+    },
+    {
+      "source": "Move - WASD\nCrouch - Left Control\nSprint - Left Shift\nUse - E, Enter\nWhistle - Space\nFlashlight - F\nReload - R\nCheck Map - M\nChange weapon\n- mouse wheel, Q\nAttack - Left Mouse\nBlock - Right Mouse\nInventory - I\nPause - Escape",
+      "translation": "Движение - WASD\nПрисесть - Left Control\nБег - Left Shift\nДействие - E, Enter\nСвист - Space\nФонарь - F\nПерезарядка - R\nКарта - M\nСмена оружия - mouse wheel, Q\nАтака - Left Mouse\nБлок - Right Mouse\nИнвентарь - I\nПауза - Escape"
+    },
+    {
+      "source": "Move - Left Stick\nCrouch - B\nSprint - LB\nUse - A\nWhistle - Y\nFlashlight - Dpad down\nReload - X\nCheck Map - Dpad up\nChange weapon\n- Dpad Left/Right\nAttack - RT\nBlock - LT\nInventory - Select\nPause - Start",
+      "translation": "Движение - Left Stick\nПрисесть - B\nБег - LB\nДействие - A\nСвист - Y\nФонарь - Dpad down\nПерезарядка - X\nКарта - Dpad up\nСмена оружия - Dpad Left/Right\nАтака - RT\nБлок - LT\nИнвентарь - Select\nПауза - Start"
+    },
+    {
+      "source": "CLIMB LADDER",
+      "translation": "ИСПОЛЬЗОВАТЬ ЛЕСТНИЦУ"
+    },
+    {
+      "source": "GET OFF LADDER",
+      "translation": "СОЙТИ С ЛЕСТНИЦЫ"
+    },
+    {
+      "source": "Press [M] to check the map",
+      "translation": "Нажмите [M], чтобы открыть карту"
+    },
+    {
+      "source": "Press [DPAD Up] to check the map",
+      "translation": "Нажмите [DPAD Up], чтобы открыть карту"
+    },
+    {
+      "source": "Map picked up.",
+      "translation": "Карта подобрана."
+    },
+    {
+      "source": "EXIT",
+      "translation": "ВЫХОД"
+    },
+    {
+      "source": "MIDNIGHT",
+      "translation": "ПОЛНОЧЬ"
+    },
+    {
+      "source": "INVERT Y [ON]",
+      "translation": "ИНВЕРСИЯ Y [ВКЛ.]"
+    },
+    {
+      "source": "INVERT Y [OFF]",
+      "translation": "ИНВЕРСИЯ Y [ВЫКЛ.]"
+    },
+    {
+      "source": "GRAIN AND BLUR [OFF]",
+      "translation": "ЗЕРНО И РАЗМЫТИЕ [ВЫКЛ.]"
+    },
+    {
+      "source": "GRAIN AND BLUR [ON]",
+      "translation": "ЗЕРНО И РАЗМЫТИЕ [ВКЛ.]"
+    },
+    {
+      "source": "NEW GAME",
+      "translation": "НОВАЯ ИГРА"
+    },
+    {
+      "source": "ARE YOU SURE?",
+      "translation": "ВЫ УВЕРЕНЫ?"
+    },
+    {
+      "source": "DELETE DATA",
+      "translation": "УДАЛИТЬ ДАННЫЕ"
+    },
+    {
+      "source": "DELETED",
+      "translation": "УДАЛЕНО"
+    },
+    {
+      "source": "FOV [",
+      "translation": "УГОЛ ОБЗОРА ["
+    },
+    {
+      "source": "The low FOV is to invoke feelings of claustrophobia.\nPlease only change if you suffer from motion sickness.",
+      "translation": "Узкий угол обзора усиливает ощущение клаустрофобии.\nМеняйте его, только если вас укачивает."
+    },
+    {
+      "source": "NEW GAME +",
+      "translation": "НОВАЯ ИГРА +"
+    },
+    {
+      "source": "FILM GRAIN [OFF]",
+      "translation": "ЗЕРНИСТОСТЬ [ВЫКЛ.]"
+    },
+    {
+      "source": "FILM GRAIN [ON]",
+      "translation": "ЗЕРНИСТОСТЬ [ВКЛ.]"
+    },
+    {
+      "source": "MOTION BLUR [OFF]",
+      "translation": "РАЗМЫТИЕ В ДВИЖЕНИИ [ВЫКЛ.]"
+    },
+    {
+      "source": "MOTION BLUR [ON]",
+      "translation": "РАЗМЫТИЕ В ДВИЖЕНИИ [ВКЛ.]"
+    },
+    {
+      "source": "RANDOM ENEMIES [ON]",
+      "translation": "СЛУЧАЙНЫЕ ВРАГИ [ВКЛ.]"
+    },
+    {
+      "source": "RANDOM ENEMIES [OFF]",
+      "translation": "СЛУЧАЙНЫЕ ВРАГИ [ВЫКЛ.]"
+    },
+    {
+      "source": "LOCKED",
+      "translation": "ЗАПЕРТО"
+    },
+    {
+      "source": "Achieve the good ending.",
+      "translation": "Получите хорошую концовку."
+    },
+    {
+      "source": "Achieve the bad ending.",
+      "translation": "Получите плохую концовку."
+    },
+    {
+      "source": "Get an even worse ending.",
+      "translation": "Получите худшую концовку."
+    },
+    {
+      "source": "Release the great old one.",
+      "translation": "Освободите Великого Древнего."
+    },
+    {
+      "source": "Find the Midnight Mode.",
+      "translation": "Откройте режим «Полночь»."
+    },
+    {
+      "source": "Find the Dark Mode.",
+      "translation": "Откройте тёмный режим."
+    },
+    {
+      "source": "Find the Gallery of Light.",
+      "translation": "Найдите Светлую галерею."
+    },
+    {
+      "source": "Complete New Game plus.",
+      "translation": "Пройдите «Новую игру +»."
+    },
+    {
+      "source": "Find and play the original 4 lost tapes.",
+      "translation": "Найдите и запустите первые четыре потерянные кассеты."
+    },
+    {
+      "source": "The low FOV is to invoke feelings of claustrophobia. Please only change if you suffer from motion sickness.",
+      "translation": "Узкий угол обзора усиливает ощущение клаустрофобии. Меняйте его, только если вас укачивает."
+    },
+    {
+      "source": "QUIT",
+      "translation": "ВЫЙТИ"
+    },
+    {
+      "source": "READ",
+      "translation": "ПРОЧИТАТЬ"
+    },
+    {
+      "source": "Locked",
+      "translation": "Заперто"
+    },
+    {
+      "source": "Failed",
+      "translation": "Неудача"
+    },
+    {
+      "source": "Pick Broken",
+      "translation": "Отмычка сломалась"
+    },
+    {
+      "source": "Success",
+      "translation": "Успех"
+    },
+    {
+      "source": "PET",
+      "translation": "ПОГЛАДИТЬ"
+    },
+    {
+      "source": "SAVE",
+      "translation": "СОХРАНИТЬ"
+    },
+    {
+      "source": "SAVE ERASED",
+      "translation": "СОХРАНЕНИЕ СТЁРТО"
+    },
+    {
+      "source": "GAME SAVED",
+      "translation": "ИГРА СОХРАНЕНА"
+    },
+    {
+      "source": "CLOSE",
+      "translation": "ЗАКРЫТЬ"
+    },
+    {
+      "source": "PLAY TAPE",
+      "translation": "ВОСПРОИЗВЕСТИ КАССЕТУ"
+    },
+    {
+      "source": "Lost Tape #1",
+      "translation": "Кассета № 1"
+    },
+    {
+      "source": "Lost Tape #2",
+      "translation": "Кассета № 2"
+    },
+    {
+      "source": "Lost Tape #3",
+      "translation": "Кассета № 3"
+    },
+    {
+      "source": "Lost Tape #4",
+      "translation": "Кассета № 4"
+    },
+    {
+      "source": "Thirst : ",
+      "translation": "Жажда: "
+    },
+    {
+      "source": "Warmup Time : ",
+      "translation": "До начала: "
+    },
+    {
+      "source": "INCOMING WAVE",
+      "translation": "ПРИБЛИЖАЕТСЯ ВОЛНА"
+    },
+    {
+      "source": "WAVE COMPLETE",
+      "translation": "ВОЛНА ОТБИТА"
+    },
+    {
+      "source": "Wave ",
+      "translation": "Волна "
+    },
+    {
+      "source": " - Remaining : ",
+      "translation": " — осталось: "
+    },
+    {
+      "source": "RT - Drive\nB - Brake\nA - Exit/Enter\nY - Autodrive",
+      "translation": "RT — газ\nB — тормоз\nA — сесть/выйти\nY — автопилот"
+    },
+    {
+      "source": "ITEM PICKED UP",
+      "translation": "ПРЕДМЕТ ПОДОБРАН"
+    },
+    {
+      "source": "Sledgehammer",
+      "translation": "Кувалда"
+    },
+    {
+      "source": "Flashlight",
+      "translation": "Фонарь"
+    },
+    {
+      "source": "Torn Leash",
+      "translation": "Порванный поводок"
+    },
+    {
+      "source": "Damaged Handgun",
+      "translation": "Повреждённый пистолет"
+    },
+    {
+      "source": "Shotgun",
+      "translation": "Дробовик"
+    },
+    {
+      "source": "Key Ring",
+      "translation": "Связка ключей"
+    },
+    {
+      "source": "Picklock Set",
+      "translation": "Набор отмычек"
+    },
+    {
+      "source": "Beetle Emblem",
+      "translation": "Эмблема жука"
+    },
+    {
+      "source": "Bomb Emblem",
+      "translation": "Эмблема бомбы"
+    },
+    {
+      "source": "Moon Emblem",
+      "translation": "Эмблема луны"
+    },
+    {
+      "source": "Doll Head",
+      "translation": "Голова куклы"
+    },
+    {
+      "source": "Eyeless_Body.fbx",
+      "translation": "Тело_без_глаз.fbx"
+    },
+    {
+      "source": "Missing Left Eye",
+      "translation": "Чей-то левый глаз"
+    },
+    {
+      "source": "Old Kitchen Knife",
+      "translation": "Старый кухонный нож"
+    },
+    {
+      "source": "Child's Skull",
+      "translation": "Детский череп"
+    },
+    {
+      "source": "Game Manual",
+      "translation": "Руководство по игре"
+    },
+    {
+      "source": "Train office key",
+      "translation": "Ключ от диспетчерской"
+    },
+    {
+      "source": "What do you offer?",
+      "translation": "Что ты предлагаешь?"
+    },
+    {
+      "source": "Ruger",
+      "translation": "Пистолет"
+    },
+    {
+      "source": "Checking...",
+      "translation": "Проверка..."
+    },
+    {
+      "source": "Press the 'Up' and 'Down' arrows \nto interact with the blur plane\nCurrent value: ",
+      "translation": "Используйте стрелки вверх и вниз, \nчтобы настроить плоскость размытия.\nТекущее значение: "
+    },
+    {
+      "source": "A game by ",
+      "translation": "Автор игры: "
+    },
+    {
+      "source": "3D art by",
+      "translation": "3D-графика:"
+    },
+    {
+      "source": "Music by ",
+      "translation": "Музыка: "
+    },
+    {
+      "source": "Textures and lighting by",
+      "translation": "Текстуры и освещение:"
+    },
+    {
+      "source": "Motion Capture by ",
+      "translation": "Захват движений: "
+    },
+    {
+      "source": "Blood by",
+      "translation": "Кровь:"
+    },
+    {
+      "source": "The time",
+      "translation": "Время"
+    },
+    {
+      "source": "IS LATE",
+      "translation": "НА ИСХОДЕ"
+    },
+    {
+      "source": "Savior of rats",
+      "translation": "Спаситель крыс"
+    },
+    {
+      "source": "The need",
+      "translation": "Жажда"
+    },
+    {
+      "source": "FOR EYES",
+      "translation": "ГЛАЗ"
+    },
+    {
+      "source": "Is an unquenchable",
+      "translation": "— это неутолимый"
+    },
+    {
+      "source": "HUNGER",
+      "translation": "ГОЛОД"
+    },
+    {
+      "source": "Lost in Vivo \n\n\n\n\n\nA game by \n\nAKUMA KIRA\n\n\n\n\n\n3D art by\n\nSOTIRIS\n\n\n\n\n\nMusic by \n\nAKUMA KIRA\nJARREN CRIST\nNOLAN REESE\n\n\n\n\n\nTextures and lighting by\n\nGL LABS\n\n\n\n\n\nMotion Capture by \n\n",
+      "translation": "Затерянный в себе \n\n\n\n\n\nАвтор игры: \n\nAKUMA KIRA\n\n\n\n\n\n3D-графика:\n\nSOTIRIS\n\n\n\n\n\nМузыка: \n\nAKUMA KIRA\nJARREN CRIST\nNOLAN REESE\n\n\n\n\n\nТекстуры и освещение:\n\nGL LABS\n\n\n\n\n\nЗахват движений: \n\n"
+    },
+    {
+      "source": "\n\n\n\n\n\nBlood by\n\n",
+      "translation": "\n\n\n\n\n\nКровь:\n\n"
+    },
+    {
+      "source": "\n\n\n\n\n\nThe time\n\nIS LATE\n\n\n\n\n\nSavior of rats\n\nSOTIRIS\n\n\n\n\n\nThe need\n\nFOR EYES\n\n\n\nIs an unquenchable\n\nHUNGER",
+      "translation": "\n\n\n\n\n\nВремя\n\nНА ИСХОДЕ\n\n\n\n\n\nСпаситель крыс\n\nSOTIRIS\n\n\n\n\n\nЖажда\n\nГЛАЗ\n\n\n\n— это неутолимый\n\nГОЛОД"
+    }
+  ]
+}

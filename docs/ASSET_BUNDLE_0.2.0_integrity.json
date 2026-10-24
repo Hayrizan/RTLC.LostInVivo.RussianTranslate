@@ -1,0 +1,12 @@
+{
+  "result": "PASS",
+  "unity": "2018.2.21f1",
+  "binary_resources": 77,
+  "embedded_fonts": 7,
+  "textures": 68,
+  "strings": 617,
+  "rules": 33,
+  "bundle_sha256": "2bdc4efeec62e554aff0230e380a2f8de46c0ca4e996077029475192e2404ff4",
+  "source_bytes_exact": true,
+  "font_data_exact": true
+}

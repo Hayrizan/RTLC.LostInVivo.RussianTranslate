@@ -1,0 +1,227 @@
+{
+  "result": "PASS",
+  "version": "0.2.2",
+  "loader": "BepInEx 5.4.23.5 Windows x64",
+  "doorstop": "4.5.0 x64",
+  "archive": "dist/RTLC.LostInVivo.RussianTranslate-0.2.2-Full-BepInEx-x64.zip",
+  "archive_bytes": 14896847,
+  "archive_sha256": "7b3969d1af5e79ed617bb58c2effc1b8ea5716d4e2b036d6f2d8efb462cdda2f",
+  "file_count": 35,
+  "loader_core_files_identical_to_installed": 18,
+  "plugin_files_identical_to_installed": 2,
+  "ready_to_extract_beside": "LIV.exe",
+  "console_enabled": false,
+  "extended_diagnostics_enabled": false,
+  "files": [
+    {
+      "path": ".doorstop_version",
+      "bytes": 5,
+      "sha256": "75a2f501000d4fe28f74bc7ee66dae5581959d28b6c44f0c1b0c05cd5ba261e6",
+      "origin": "Pristine BepInEx 5.4.23.5 Windows x64 distribution"
+    },
+    {
+      "path": "BepInEx/config/BepInEx.cfg",
+      "bytes": 132,
+      "sha256": "6363885180fa7a3465c5f1ea9be157fd9ed03a8e245ffb046898eda707616f0e",
+      "origin": "Release configuration, documentation or upstream license"
+    },
+    {
+      "path": "BepInEx/config/com.rtlc.lostinvivo.russian-translation.cfg",
+      "bytes": 100,
+      "sha256": "8fe58cf7f713ada576f87bad1061e9fc4fbd512a028d8dddf303918a07bb7549",
+      "origin": "Release configuration, documentation or upstream license"
+    },
+    {
+      "path": "BepInEx/core/0Harmony.dll",
+      "bytes": 204800,
+      "sha256": "1a21cc03424fc82c3dd1346905d16494536b9595ae4162228d99fb7c285c1031",
+      "origin": "Pristine BepInEx 5.4.23.5 Windows x64 distribution"
+    },
+    {
+      "path": "BepInEx/core/0Harmony.xml",
+      "bytes": 267107,
+      "sha256": "d1f02fc3ada3a13da307de421225bfe56ebe24064370980979391c4be021672f",
+      "origin": "Pristine BepInEx 5.4.23.5 Windows x64 distribution"
+    },
+    {
+      "path": "BepInEx/core/0Harmony20.dll",
+      "bytes": 112640,
+      "sha256": "c755a5ab2712915a32f9a850d580a8c1b70ff1653bc76600f2767aa8ffccc663",
+      "origin": "Pristine BepInEx 5.4.23.5 Windows x64 distribution"
+    },
+    {
+      "path": "BepInEx/core/BepInEx.Harmony.dll",
+      "bytes": 6656,
+      "sha256": "00c8f2ac48593e4d45ce4eb26ce4e68b18113c5c489b38b8bf0850f65830d601",
+      "origin": "Pristine BepInEx 5.4.23.5 Windows x64 distribution"
+    },
+    {
+      "path": "BepInEx/core/BepInEx.Harmony.xml",
+      "bytes": 4056,
+      "sha256": "a04fedf08f7c81f5d01aba6f2840a7ffce50b79bbd24587d8dbe69ab73971d29",
+      "origin": "Pristine BepInEx 5.4.23.5 Windows x64 distribution"
+    },
+    {
+      "path": "BepInEx/core/BepInEx.Preloader.dll",
+      "bytes": 43008,
+      "sha256": "55d3895351a9d16b63b6f35f1c01b44ac650979e853d0bd3a442b92a082af64f",
+      "origin": "Pristine BepInEx 5.4.23.5 Windows x64 distribution"
+    },
+    {
+      "path": "BepInEx/core/BepInEx.Preloader.xml",
+      "bytes": 7964,
+      "sha256": "33275b2783b7b99495a02c098ee86d6a9a2783e884a5c9369021f20c94cf99e7",
+      "origin": "Pristine BepInEx 5.4.23.5 Windows x64 distribution"
+    },
+    {
+      "path": "BepInEx/core/BepInEx.dll",
+      "bytes": 128512,
+      "sha256": "8255b28902886085c578b9e427d3073c97002db85176d2090cdeda90ef14ce70",
+      "origin": "Pristine BepInEx 5.4.23.5 Windows x64 distribution"
+    },
+    {
+      "path": "BepInEx/core/BepInEx.xml",
+      "bytes": 89835,
+      "sha256": "7ba2266061b9f8a9f146218a312bfdd0d7f2b53a99a7e66c957215c6b66ca0d7",
+      "origin": "Pristine BepInEx 5.4.23.5 Windows x64 distribution"
+    },
+    {
+      "path": "BepInEx/core/HarmonyXInterop.dll",
+      "bytes": 23552,
+      "sha256": "7ce1342d3afa0334b59a3e38c0aed15e162b9abe9d46f95f34be44af47f3b493",
+      "origin": "Pristine BepInEx 5.4.23.5 Windows x64 distribution"
+    },
+    {
+      "path": "BepInEx/core/Mono.Cecil.Mdb.dll",
+      "bytes": 43008,
+      "sha256": "5896d1898f616701fff18f3b2c71e6b844d2390ef9f41e1c5fccce8cb27c698e",
+      "origin": "Pristine BepInEx 5.4.23.5 Windows x64 distribution"
+    },
+    {
+      "path": "BepInEx/core/Mono.Cecil.Pdb.dll",
+      "bytes": 86528,
+      "sha256": "174db44a067f58561510af746f3caeb032037762c57a31c8d9ee32db25174984",
+      "origin": "Pristine BepInEx 5.4.23.5 Windows x64 distribution"
+    },
+    {
+      "path": "BepInEx/core/Mono.Cecil.Rocks.dll",
+      "bytes": 27648,
+      "sha256": "54ac539fb5ddc8b44c0e9acd0fcb7324f89d1a072edf8ebc1b06dd691e3d3927",
+      "origin": "Pristine BepInEx 5.4.23.5 Windows x64 distribution"
+    },
+    {
+      "path": "BepInEx/core/Mono.Cecil.dll",
+      "bytes": 339456,
+      "sha256": "7ae470288fff4a402899c254d0a76cefef55877f5c54f96e83c797cc5bb6e2f6",
+      "origin": "Pristine BepInEx 5.4.23.5 Windows x64 distribution"
+    },
+    {
+      "path": "BepInEx/core/MonoMod.RuntimeDetour.dll",
+      "bytes": 105984,
+      "sha256": "40e49bb314391cd7bddc2644f8553eeba92c194b940836b103df16955c464e0c",
+      "origin": "Pristine BepInEx 5.4.23.5 Windows x64 distribution"
+    },
+    {
+      "path": "BepInEx/core/MonoMod.RuntimeDetour.xml",
+      "bytes": 9414,
+      "sha256": "54887808960d156550b37d602d08847607aa9e908d039f2765fb0b5e79394aa4",
+      "origin": "Pristine BepInEx 5.4.23.5 Windows x64 distribution"
+    },
+    {
+      "path": "BepInEx/core/MonoMod.Utils.dll",
+      "bytes": 187904,
+      "sha256": "9d1495f147ac93c4f81f84538c1a326e8f8a6aefc78d6289d798f3ce1162c5e9",
+      "origin": "Pristine BepInEx 5.4.23.5 Windows x64 distribution"
+    },
+    {
+      "path": "BepInEx/core/MonoMod.Utils.xml",
+      "bytes": 78973,
+      "sha256": "0577b362023a3432d6e8d7934c5eddc3e08fdbb19e191af083e341562c5ede38",
+      "origin": "Pristine BepInEx 5.4.23.5 Windows x64 distribution"
+    },
+    {
+      "path": "BepInEx/docs/BepInEx-5.4.23.5-changelog.txt",
+      "bytes": 338,
+      "sha256": "b184d858cb0ff6614ca8ce0247fb0d186cabc91ed7e4d4d9d57ea3d744ce98b5",
+      "origin": "Pristine BepInEx 5.4.23.5 Windows x64 distribution"
+    },
+    {
+      "path": "BepInEx/licenses/BepInEx-MIT.txt",
+      "bytes": 1062,
+      "sha256": "e6e534ef6f4347b6449407ee046a3d09cb0174c6f688c996ad0bed94b74b3933",
+      "origin": "Release configuration, documentation or upstream license"
+    },
+    {
+      "path": "BepInEx/licenses/Fonts-SIL-OFL.txt",
+      "bytes": 4377,
+      "sha256": "0dab92d0544f7b233403f14b84a663bdbfa746982eda629e7f4f9ffe1b036feb",
+      "origin": "Release configuration, documentation or upstream license"
+    },
+    {
+      "path": "BepInEx/licenses/HarmonyX-MIT.txt",
+      "bytes": 1063,
+      "sha256": "7e54ab4766ef78637a05fb3454663a66de6bb960dbd4c7088890ed76b0844f36",
+      "origin": "Release configuration, documentation or upstream license"
+    },
+    {
+      "path": "BepInEx/licenses/Mono.Cecil-MIT.txt",
+      "bytes": 1098,
+      "sha256": "13d58ecbed676511c0c4c4009bff107025e50007ff5e7901dc562700ec62509e",
+      "origin": "Release configuration, documentation or upstream license"
+    },
+    {
+      "path": "BepInEx/licenses/MonoMod-MIT.txt",
+      "bytes": 1080,
+      "sha256": "0b64833222e3c6a426ad29362d26334619fe02eaf2b89ea9c37805521896c920",
+      "origin": "Release configuration, documentation or upstream license"
+    },
+    {
+      "path": "BepInEx/licenses/THIRD_PARTY_NOTICES.txt",
+      "bytes": 928,
+      "sha256": "729fff7500d6c0f61add51f4c2c90024ec4a6e52e1bc1ed04645a606f871db5d",
+      "origin": "Release configuration, documentation or upstream license"
+    },
+    {
+      "path": "BepInEx/licenses/UnityDoorstop-4.5.0-source.zip",
+      "bytes": 109881,
+      "sha256": "7f0c963104aa08bf5fefef8ff85e7fecd8306838f5af3101487d9db4e9188d63",
+      "origin": "Release configuration, documentation or upstream license"
+    },
+    {
+      "path": "BepInEx/licenses/UnityDoorstop-LGPL-2.1.txt",
+      "bytes": 26526,
+      "sha256": "20c17d8b8c48a600800dfd14f95d5cb9ff47066a9641ddeab48dc54aec96e331",
+      "origin": "Release configuration, documentation or upstream license"
+    },
+    {
+      "path": "BepInEx/plugins/RTLC.LostInVivo.RussianTranslate/RTLC.LostInVivo.RussianTranslate.dll",
+      "bytes": 62976,
+      "sha256": "25d95c867d301119936120c35679cf429ebbdfcb5161fdf5345067be0601090f",
+      "origin": "Built localization 0.2.2"
+    },
+    {
+      "path": "BepInEx/plugins/RTLC.LostInVivo.RussianTranslate/rtlc.bundle",
+      "bytes": 14248462,
+      "sha256": "2bdc4efeec62e554aff0230e380a2f8de46c0ca4e996077029475192e2404ff4",
+      "origin": "Built localization 0.2.2"
+    },
+    {
+      "path": "README_RU.md",
+      "bytes": 3664,
+      "sha256": "3d60f27501f3370fe35eb6c714f36460f3cd31aa28716e8ff665196a1da5b860",
+      "origin": "Release configuration, documentation or upstream license"
+    },
+    {
+      "path": "doorstop_config.ini",
+      "bytes": 1460,
+      "sha256": "4d5c6dfa0f771c6a5b1b0c559aca0bd0ece7d08b08fff894708dc3b73ce73cfc",
+      "origin": "Pristine BepInEx 5.4.23.5 Windows x64 distribution"
+    },
+    {
+      "path": "winhttp.dll",
+      "bytes": 26112,
+      "sha256": "8c6cdbc38836dee87e3368f5de1994d7c0ccebf29e4ce7aba3c0981f9375412c",
+      "origin": "Pristine BepInEx 5.4.23.5 Windows x64 distribution"
+    }
+  ]
+}

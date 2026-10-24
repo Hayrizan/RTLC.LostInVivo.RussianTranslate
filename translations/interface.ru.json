@@ -1,0 +1,1124 @@
+{
+  "entries": [
+    {
+      "source": "TURN?",
+      "translation": "ПОВЕРНУТЬ?"
+    },
+    {
+      "source": "FILM GRAIN",
+      "translation": "ЗЕРНИСТОСТЬ"
+    },
+    {
+      "source": "  LIGHT GALLERY",
+      "translation": "  СВЕТЛАЯ ГАЛЕРЕЯ"
+    },
+    {
+      "source": "BACK",
+      "translation": "НАЗАД"
+    },
+    {
+      "source": "  BAD ENDING",
+      "translation": "  ПЛОХАЯ КОНЦОВКА"
+    },
+    {
+      "source": "CONTINUE",
+      "translation": "ПРОДОЛЖИТЬ"
+    },
+    {
+      "source": "  MIXTAPE PLAYER",
+      "translation": "  ПЛЕЕР МИКСТЕЙПОВ"
+    },
+    {
+      "source": "OPTIONS",
+      "translation": "НАСТРОЙКИ"
+    },
+    {
+      "source": "LOCKED",
+      "translation": "ЗАПЕРТО"
+    },
+    {
+      "source": "PLAY",
+      "translation": "ИГРАТЬ"
+    },
+    {
+      "source": "INVERT Y",
+      "translation": "ИНВЕРСИЯ Y"
+    },
+    {
+      "source": "MOTION BLUR",
+      "translation": "РАЗМЫТИЕ В ДВИЖЕНИИ"
+    },
+    {
+      "source": "  DARK MODE",
+      "translation": "  ТЁМНЫЙ РЕЖИМ"
+    },
+    {
+      "source": "RANDOM ENEMIES [OFF]",
+      "translation": "СЛУЧАЙНЫЕ ВРАГИ [ВЫКЛ.]"
+    },
+    {
+      "source": "VOLUME",
+      "translation": "ГРОМКОСТЬ"
+    },
+    {
+      "source": "  NIGHTMARE ENDING",
+      "translation": "  КОШМАРНАЯ КОНЦОВКА"
+    },
+    {
+      "source": "MERSUS TAPES",
+      "translation": "КАССЕТЫ MERSUS"
+    },
+    {
+      "source": "EXIT",
+      "translation": "ВЫХОД"
+    },
+    {
+      "source": "  GOOD ENDING",
+      "translation": "  ХОРОШАЯ КОНЦОВКА"
+    },
+    {
+      "source": "DELETE DATA",
+      "translation": "УДАЛИТЬ ДАННЫЕ"
+    },
+    {
+      "source": "  MIDNIGHT MODE",
+      "translation": "  РЕЖИМ «ПОЛНОЧЬ»"
+    },
+    {
+      "source": "LOST TAPES",
+      "translation": "ПОТЕРЯННЫЕ КАССЕТЫ"
+    },
+    {
+      "source": "  NEW NIGHTMARE",
+      "translation": "  НОВЫЙ КОШМАР"
+    },
+    {
+      "source": "FOV",
+      "translation": "УГОЛ ОБЗОРА"
+    },
+    {
+      "source": "EXTRA",
+      "translation": "ДОПОЛНИТЕЛЬНО"
+    },
+    {
+      "source": "NEW GAME",
+      "translation": "НОВАЯ ИГРА"
+    },
+    {
+      "source": "  REALLY BAD ENDING",
+      "translation": "  ХУДШАЯ КОНЦОВКА"
+    },
+    {
+      "source": "GAMMA",
+      "translation": "ГАММА"
+    },
+    {
+      "source": "CHALLENGES",
+      "translation": "ИСПЫТАНИЯ"
+    },
+    {
+      "source": "CREDITS",
+      "translation": "АВТОРЫ"
+    },
+    {
+      "source": "MORE OPTIONS",
+      "translation": "ДРУГИЕ НАСТРОЙКИ"
+    },
+    {
+      "source": "EMPTY",
+      "translation": "ПУСТО"
+    },
+    {
+      "source": "Adjust the slider until the leftmost symbol is barely visible.",
+      "translation": "Передвигайте ползунок, пока крайний левый символ не станет едва заметен."
+    },
+    {
+      "source": "RESET",
+      "translation": "СБРОСИТЬ"
+    },
+    {
+      "source": "FOV [45]",
+      "translation": "УГОЛ ОБЗОРА [45]"
+    },
+    {
+      "source": "WARNING\n\n\nThis game contains violent\nimages and flashing lights.\n",
+      "translation": "ВНИМАНИЕ\n\n\nВ игре есть сцены жестокости\nи вспышки света.\n"
+    },
+    {
+      "source": "INVERT Y [OFF]",
+      "translation": "ИНВЕРСИЯ Y [ВЫКЛ.]"
+    },
+    {
+      "source": "FILM GRAIN [ON]",
+      "translation": "ЗЕРНИСТОСТЬ [ВКЛ.]"
+    },
+    {
+      "source": "DO THING?",
+      "translation": "СДЕЛАТЬ ЭТО?"
+    },
+    {
+      "source": "Time:",
+      "translation": "Время:"
+    },
+    {
+      "source": "Flashlight",
+      "translation": "Фонарь"
+    },
+    {
+      "source": "What do you offer?",
+      "translation": "Что ты предлагаешь?"
+    },
+    {
+      "source": "QUIT",
+      "translation": "ВЫЙТИ"
+    },
+    {
+      "source": "Enter text...",
+      "translation": "Введите текст..."
+    },
+    {
+      "source": "Torn Leash",
+      "translation": "Порванный поводок"
+    },
+    {
+      "source": "YES",
+      "translation": "ДА"
+    },
+    {
+      "source": "Locked Yo",
+      "translation": "Заперто"
+    },
+    {
+      "source": "Open the station?",
+      "translation": "Открыть станцию?"
+    },
+    {
+      "source": "EXAMINE",
+      "translation": "ОСМОТРЕТЬ"
+    },
+    {
+      "source": "Health:",
+      "translation": "Здоровье:"
+    },
+    {
+      "source": "OPEN",
+      "translation": "ОТКРЫТЬ"
+    },
+    {
+      "source": "PAUSED",
+      "translation": "ПАУЗА"
+    },
+    {
+      "source": "Item_Des is where everything about that object goes and needs to wrap somehow. it's Lololololololololololol muffins.",
+      "translation": "Здесь должно быть описание предмета."
+    },
+    {
+      "source": "RESUME",
+      "translation": "ПРОДОЛЖИТЬ"
+    },
+    {
+      "source": "USE ITEM\nCOMBINE\nBACK\n",
+      "translation": "ИСПОЛЬЗОВАТЬ\nСОЕДИНИТЬ\nНАЗАД\n"
+    },
+    {
+      "source": "NO\n",
+      "translation": "НЕТ\n"
+    },
+    {
+      "source": "butts",
+      "translation": "задницы"
+    },
+    {
+      "source": "Sledgehammer",
+      "translation": "Кувалда"
+    },
+    {
+      "source": "Item_Name\n",
+      "translation": "Название предмета\n"
+    },
+    {
+      "source": "I don't have a map of this area.",
+      "translation": "У меня нет карты этого места."
+    },
+    {
+      "source": "Metro key",
+      "translation": "Ключ от метро"
+    },
+    {
+      "source": "Damaged Handgun",
+      "translation": "Повреждённый пистолет"
+    },
+    {
+      "source": "It's Blocked",
+      "translation": "Проход перекрыт"
+    },
+    {
+      "source": "BROKEN",
+      "translation": "ЗАКЛИНИЛО"
+    },
+    {
+      "source": "CLOSE",
+      "translation": "ЗАКРЫТЬ"
+    },
+    {
+      "source": "Ruger",
+      "translation": "Пистолет"
+    },
+    {
+      "source": "Broken",
+      "translation": "Заклинило"
+    },
+    {
+      "source": "Shotgun",
+      "translation": "Дробовик"
+    },
+    {
+      "source": "Lost Tape #2",
+      "translation": "Кассета № 2"
+    },
+    {
+      "source": "Picklock Set",
+      "translation": "Набор отмычек"
+    },
+    {
+      "source": "USE",
+      "translation": "ИСПОЛЬЗОВАТЬ"
+    },
+    {
+      "source": "Locked from the other side.",
+      "translation": "Заперто с другой стороны."
+    },
+    {
+      "source": "The door feels hot.",
+      "translation": "От двери идёт жар."
+    },
+    {
+      "source": "I feel that it only makes me get worse.\r",
+      "translation": "Мне кажется, от этого становится только хуже.\r"
+    },
+    {
+      "source": "This is a lie.\nYou are not supposed to be here.",
+      "translation": "Это ложь.\nТебя здесь быть не должно."
+    },
+    {
+      "source": "Use Up/Down to change scroll speed",
+      "translation": "Стрелки вверх/вниз меняют скорость прокрутки"
+    },
+    {
+      "source": "LOADING",
+      "translation": "ЗАГРУЗКА"
+    },
+    {
+      "source": "\n     Page 1\n\n     Life was too harsh.\r \n     Love was lost forevermore.\r\n     They hung from a ceiling fan,\r\n     Staring at the floor.\r",
+      "translation": "\n     Страница 1\n\n     Жизнь оказалась слишком жестокой.\n     Любовь ушла навсегда.\n     Тело повисло на потолочном вентиляторе,\n     Глядя мёртвыми глазами в пол.\n"
+    },
+    {
+      "source": "\nMy eyes are useless.\r\n\r\nAll they do now is sting and show me stuff\nthat can’t be real.\r\n\nIf that rancid thing wants them, \nthen I say let it have them.\r",
+      "translation": "\nМои глаза больше ни на что не годятся.\n\nОни только болят и показывают то,\nчего не может быть на самом деле.\n\nЕсли эта гнилая тварь хочет их забрать —\nпусть забирает.\n"
+    },
+    {
+      "source": "Press [I] to check Inventory",
+      "translation": "Нажмите [I], чтобы открыть инвентарь"
+    },
+    {
+      "source": "Exit the sewer?",
+      "translation": "Выбраться из канализации?"
+    },
+    {
+      "source": "Press [F] to toggle Flashlight",
+      "translation": "Нажмите [F], чтобы включить или выключить фонарь"
+    },
+    {
+      "source": "Press [Space] to Whistle",
+      "translation": "Нажмите [Space], чтобы свистнуть"
+    },
+    {
+      "source": "\n     Page 2\n\n     Life was too harsh.\r \n     And a bridge was close by.\r\n     They sank in water,\r\n     Gaping for the sky.",
+      "translation": "\n     Страница 2\n\n     Жизнь оказалась слишком жестокой.\n     А мост был совсем рядом.\n     Тело ушло под воду,\n     С раскрытым ртом, обращённым к небу.\n"
+    },
+    {
+      "source": "Old Kitchen Knife",
+      "translation": "Старый кухонный нож"
+    },
+    {
+      "source": "\n     Page 3\n\n     Life was too harsh.\r \n     This job just wasn't fair.\r\n     They laid in the assembly,\n     With a sideways stare.\r",
+      "translation": "\n     Страница 3\n\n     Жизнь оказалась слишком жестокой.\n     Работа не знала пощады.\n     Тело осталось на конвейере,\n     Неподвижный взгляд обращён в сторону.\n"
+    },
+    {
+      "source": "HOLD ESC TO EXIT",
+      "translation": "УДЕРЖИВАЙТЕ ESC ДЛЯ ВЫХОДА"
+    },
+    {
+      "source": "PICKUP",
+      "translation": "ПОДОБРАТЬ"
+    },
+    {
+      "source": "BOLT CUTTERS PICKED UP",
+      "translation": "БОЛТОРЕЗ ПОДОБРАН"
+    },
+    {
+      "source": "CUT",
+      "translation": "ПЕРЕРЕЗАТЬ"
+    },
+    {
+      "source": "I NEED BOLT CUTTERS",
+      "translation": "НУЖЕН БОЛТОРЕЗ"
+    },
+    {
+      "source": "I should save first.",
+      "translation": "Сначала стоит сохраниться."
+    },
+    {
+      "source": "QUIT TO MENU",
+      "translation": "В ГЛАВНОЕ МЕНЮ"
+    },
+    {
+      "source": "TAKE",
+      "translation": "ВЗЯТЬ"
+    },
+    {
+      "source": "Mine access key",
+      "translation": "Ключ от шахты"
+    },
+    {
+      "source": "Beetle Emblem",
+      "translation": "Эмблема жука"
+    },
+    {
+      "source": "9/23\n\n\nI thought I’d be safe down here.\nI’m so far away from those monsters up above,\nbut even down here I’m not alone.\r",
+      "translation": "23.09\n\n\nЯ думал, здесь будет безопасно.\nЯ так далеко от чудовищ наверху,\nно даже здесь я не один.\n"
+    },
+    {
+      "source": "Bomb Emblem",
+      "translation": "Эмблема бомбы"
+    },
+    {
+      "source": "Moon Emblem",
+      "translation": "Эмблема луны"
+    },
+    {
+      "source": "It doesn't work",
+      "translation": "Не работает"
+    },
+    {
+      "source": "RETINAL SCAN FAILED",
+      "translation": "СЕТЧАТКА НЕ РАСПОЗНАНА"
+    },
+    {
+      "source": "Pizza",
+      "translation": "Пицца"
+    },
+    {
+      "source": "WHY AM I HERE",
+      "translation": "ПОЧЕМУ Я ЗДЕСЬ"
+    },
+    {
+      "source": "LET ME OUT",
+      "translation": "ВЫПУСТИТЕ МЕНЯ"
+    },
+    {
+      "source": "SOMETHING'S WRONG WITH THEM",
+      "translation": "С НИМИ ЧТО-ТО НЕ ТАК"
+    },
+    {
+      "source": "AM I SICK",
+      "translation": "Я БОЛЕН?"
+    },
+    {
+      "source": "I'M NOT SICK",
+      "translation": "Я НЕ БОЛЕН"
+    },
+    {
+      "source": "Lost Tape #3",
+      "translation": "Кассета № 3"
+    },
+    {
+      "source": "Doll Head",
+      "translation": "Голова куклы"
+    },
+    {
+      "source": "Eyeless_Body.fbx",
+      "translation": "Тело_без_глаз.fbx"
+    },
+    {
+      "source": "11-12\nUnityEngine.Debug:Log(Invalid Class)\n12 - 36\nUnityEngine.Debug:Log(Missing Item Info)\n",
+      "translation": "11-12\nUnityEngine.Debug:Log(Invalid Class)\n12 - 36\nUnityEngine.Debug:Log(Missing Item Info)\n"
+    },
+    {
+      "source": "11-12\nUnityEngine.Debug:Log(Invalid Class)\n",
+      "translation": "11-12\nUnityEngine.Debug:Log(Invalid Class)\n"
+    },
+    {
+      "source": "CRAWL INSIDE?",
+      "translation": "ЗАПОЛЗТИ ВНУТРЬ?"
+    },
+    {
+      "source": "It's not real.",
+      "translation": "Это не настоящее."
+    },
+    {
+      "source": "E - Exit/Enter\nC - Autodrive",
+      "translation": "E — сесть/выйти\nC — автопилот"
+    },
+    {
+      "source": "I NEED TO GET HOME",
+      "translation": "МНЕ НУЖНО ДОМОЙ"
+    },
+    {
+      "source": "YOU MADE IT HOME",
+      "translation": "ВЫ ДОБРАЛИСЬ ДОМОЙ"
+    },
+    {
+      "source": "PICK UP",
+      "translation": "ПОДОБРАТЬ"
+    },
+    {
+      "source": "FIREWOOD PICKED UP",
+      "translation": "ДРОВА ПОДОБРАНЫ"
+    },
+    {
+      "source": "I NEED FIREWOOD",
+      "translation": "НУЖНЫ ДРОВА"
+    },
+    {
+      "source": "IDOL PICKED UP",
+      "translation": "ИДОЛ ПОДОБРАН"
+    },
+    {
+      "source": "AHHHH",
+      "translation": "А-А-А-А!"
+    },
+    {
+      "source": "AHHH",
+      "translation": "А-А-А!"
+    },
+    {
+      "source": "MATCHES PICKED UP",
+      "translation": "СПИЧКИ ПОДОБРАНЫ"
+    },
+    {
+      "source": "PLACE LOGS",
+      "translation": "ПОЛОЖИТЬ ДРОВА"
+    },
+    {
+      "source": "THE TREE IS MOVING WITHOUT ANY WIND",
+      "translation": "ДЕРЕВО КАЧАЕТСЯ, ХОТЯ ВЕТРА НЕТ"
+    },
+    {
+      "source": "BURN THE IDOL",
+      "translation": "СОЖГИ ИДОЛА"
+    },
+    {
+      "source": "BURN IDOL",
+      "translation": "СЖЕЧЬ ИДОЛА"
+    },
+    {
+      "source": "LIGHT FIRE",
+      "translation": "РАЗЖЕЧЬ ОГОНЬ"
+    },
+    {
+      "source": "IT'S BURNING",
+      "translation": "ГОРИТ"
+    },
+    {
+      "source": "NO FOOD LEFT",
+      "translation": "ЕДЫ БОЛЬШЕ НЕТ"
+    },
+    {
+      "source": "IT'S BROKE DOWN",
+      "translation": "СЛОМАЛОСЬ"
+    },
+    {
+      "source": "TOOK OUR SON",
+      "translation": "ЗАБРАЛО НАШЕГО СЫНА"
+    },
+    {
+      "source": "I NEED MATCHES",
+      "translation": "НУЖНЫ СПИЧКИ"
+    },
+    {
+      "source": "I NEED THE IDOL",
+      "translation": "НУЖЕН ИДОЛ"
+    },
+    {
+      "source": "I NEED TO SLEEP",
+      "translation": "МНЕ НУЖНО ПОСПАТЬ"
+    },
+    {
+      "source": "TRY TO SLEEP?",
+      "translation": "ПОПРОБОВАТЬ УСНУТЬ?"
+    },
+    {
+      "source": "IT'S A NIGHTMARE",
+      "translation": "ЭТО КОШМАР"
+    },
+    {
+      "source": "RING",
+      "translation": "ПОЗВОНИТЬ"
+    },
+    {
+      "source": "LET ME SLEEP",
+      "translation": "ДАЙ МНЕ УСНУТЬ"
+    },
+    {
+      "source": "I CAN'T WAKE UP",
+      "translation": "Я НЕ МОГУ ПРОСНУТЬСЯ"
+    },
+    {
+      "source": "11-12\nUnityEngine.Debug:Log(Invalid Class)\n12 - 36\nUnityEngine.Debug:Log(Missing Item Info)\n37 - 37\nUnityEngine.Debug:Log(Debug.Command.Remove.Item)\n",
+      "translation": "11-12\nUnityEngine.Debug:Log(Invalid Class)\n12 - 36\nUnityEngine.Debug:Log(Missing Item Info)\n37 - 37\nUnityEngine.Debug:Log(Debug.Command.Remove.Item)\n"
+    },
+    {
+      "source": "Missing Left Eye",
+      "translation": "Чей-то левый глаз"
+    },
+    {
+      "source": "APPROVED",
+      "translation": "ДОСТУП РАЗРЕШЁН"
+    },
+    {
+      "source": "Lost in Vivo",
+      "translation": "Затерянный в себе"
+    },
+    {
+      "source": "Train office key",
+      "translation": "Ключ от диспетчерской"
+    },
+    {
+      "source": "It's rusted shut",
+      "translation": "Заржавело намертво"
+    },
+    {
+      "source": "It's stuck",
+      "translation": "Заклинило"
+    },
+    {
+      "source": "Lost Tape #4",
+      "translation": "Кассета № 4"
+    },
+    {
+      "source": "It's blocked.",
+      "translation": "Проход перекрыт."
+    },
+    {
+      "source": "FLOOD THE DRAIN ROOM?",
+      "translation": "ЗАТОПИТЬ ДРЕНАЖНУЮ КАМЕРУ?"
+    },
+    {
+      "source": "IT'S BLOCKED",
+      "translation": "ПРОХОД ПЕРЕКРЫТ"
+    },
+    {
+      "source": "Pull item out?",
+      "translation": "Вытащить предмет?"
+    },
+    {
+      "source": "Child's Skull picked up.",
+      "translation": "Подобрано: Детский череп."
+    },
+    {
+      "source": "Child's Skull",
+      "translation": "Детский череп"
+    },
+    {
+      "source": "You're just going to abandon your dog?",
+      "translation": "Ты вот так бросишь свою собаку?"
+    },
+    {
+      "source": "LOOK",
+      "translation": "ПОСМОТРЕТЬ"
+    },
+    {
+      "source": "\n\n               The text is illegible...\r",
+      "translation": "\n\n               Текст невозможно разобрать...\n"
+    },
+    {
+      "source": "Give the child's skull?",
+      "translation": "Отдать детский череп?"
+    },
+    {
+      "source": "SACRIFICE",
+      "translation": "ПРИНЕСТИ В ЖЕРТВУ"
+    },
+    {
+      "source": "Did you lock the door?",
+      "translation": "Ты запер дверь?"
+    },
+    {
+      "source": "Press [Space] to bark.",
+      "translation": "Нажмите [Space], чтобы залаять."
+    },
+    {
+      "source": "VICTORS",
+      "translation": "ПОБЕДИТЕЛИ"
+    },
+    {
+      "source": "SLAY THE MIDNIGHT KING",
+      "translation": "УБЕЙТЕ КОРОЛЯ ПОЛУНОЧИ"
+    },
+    {
+      "source": "Mirage of Bayagototh the Starving Old One",
+      "translation": "Мираж Байяготота, голодающего Древнего"
+    },
+    {
+      "source": "MIDNIGHT IS OVER",
+      "translation": "ПОЛНОЧЬ МИНОВАЛА"
+    },
+    {
+      "source": "This was but a Mirage",
+      "translation": "Это был лишь мираж"
+    },
+    {
+      "source": "In Memory of Shoggoth",
+      "translation": "Памяти шоггота"
+    },
+    {
+      "source": "Shoggoth King eel of the Abyss",
+      "translation": "Шоггот, король угрей Бездны"
+    },
+    {
+      "source": "NAME",
+      "translation": "ИМЯ"
+    },
+    {
+      "source": "TOP",
+      "translation": "ЛУЧШИЕ"
+    },
+    {
+      "source": "GLOBAL",
+      "translation": "ВСЕ ИГРОКИ"
+    },
+    {
+      "source": "MIDNIGHT SPEEDRUN",
+      "translation": "ПОЛНОЧЬ: НА ВРЕМЯ"
+    },
+    {
+      "source": "FRIENDS",
+      "translation": "ДРУЗЬЯ"
+    },
+    {
+      "source": "SECRET",
+      "translation": "ТАЙНА"
+    },
+    {
+      "source": "BAYAGOTOTH SPEEDRUN",
+      "translation": "БАЙЯГОТОТ: НА ВРЕМЯ"
+    },
+    {
+      "source": "DONE",
+      "translation": "ГОТОВО"
+    },
+    {
+      "source": "A  B  C  D  E  F  G  H\nI  J  K  L  M  N  O  P\nQ  R  S  T  U  V  W  X\nY  Z  @  .  '  1  2  3\n4  5  6  7  8  9  <   ",
+      "translation": "A  B  C  D  E  F  G  H\nI  J  K  L  M  N  O  P\nQ  R  S  T  U  V  W  X\nY  Z  @  .  '  1  2  3\n4  5  6  7  8  9  <   "
+    },
+    {
+      "source": "PRESS ANY KEY TO CONTINUE",
+      "translation": "НАЖМИТЕ ЛЮБУЮ КЛАВИШУ"
+    },
+    {
+      "source": "I HAVE TO GO FORWARD",
+      "translation": "НУЖНО ИДТИ ВПЕРЁД"
+    },
+    {
+      "source": "It's too late",
+      "translation": "Слишком поздно"
+    },
+    {
+      "source": "Flesh Ray\n",
+      "translation": "Мясной скат\n"
+    },
+    {
+      "source": "Bayagototh (Stump)",
+      "translation": "Байяготот (пень)"
+    },
+    {
+      "source": "Ghost Girl",
+      "translation": "Девочка-призрак"
+    },
+    {
+      "source": "The Wolf (Baby)",
+      "translation": "Волк (детёныш)"
+    },
+    {
+      "source": "Spooky Bois",
+      "translation": "Жуткие ребята"
+    },
+    {
+      "source": "The Dark Winged Man",
+      "translation": "Тёмный крылатый человек"
+    },
+    {
+      "source": "Ghost Train (1/2 scale)",
+      "translation": "Поезд-призрак (масштаб 1:2)"
+    },
+    {
+      "source": "Bayagototh Idol",
+      "translation": "Идол Байяготота"
+    },
+    {
+      "source": "Wolf",
+      "translation": "Волк"
+    },
+    {
+      "source": "Bag",
+      "translation": "Мешок"
+    },
+    {
+      "source": "Followers of Baya",
+      "translation": "Последователи Байи"
+    },
+    {
+      "source": "Deadly Sins",
+      "translation": "Смертные грехи"
+    },
+    {
+      "source": "Daddy Roach\n",
+      "translation": "Таракан-папаша\n"
+    },
+    {
+      "source": "Dead Soul",
+      "translation": "Мёртвая душа"
+    },
+    {
+      "source": "Rat Mom (1/5 scale)\n",
+      "translation": "Крысиная мать (масштаб 1:5)\n"
+    },
+    {
+      "source": "Goobles",
+      "translation": "Гублы"
+    },
+    {
+      "source": "Greater Wolf",
+      "translation": "Великий волк"
+    },
+    {
+      "source": "Shoggoth (Boss Form)",
+      "translation": "Шоггот (форма босса)"
+    },
+    {
+      "source": "Dog Head",
+      "translation": "Собачья голова"
+    },
+    {
+      "source": "Ratman (woke)",
+      "translation": "Крысочеловек (пробуждённый)"
+    },
+    {
+      "source": "The Wolf (5th child of Baya)",
+      "translation": "Волк (пятое дитя Байи)"
+    },
+    {
+      "source": "Virgil",
+      "translation": "Вергилий"
+    },
+    {
+      "source": "Starving Bayagototh",
+      "translation": "Голодающий Байяготот"
+    },
+    {
+      "source": "Dog Mimic",
+      "translation": "Пёс-мимик"
+    },
+    {
+      "source": "Dr. Piccinini\r\n",
+      "translation": "Доктор Пиччинини\r\n"
+    },
+    {
+      "source": "Eyeless Hobo",
+      "translation": "Бродяга без глаз"
+    },
+    {
+      "source": "Ratman",
+      "translation": "Крысочеловек"
+    },
+    {
+      "source": "Baby",
+      "translation": "Младенец"
+    },
+    {
+      "source": "Sotiris\n",
+      "translation": "Сотирис\n"
+    },
+    {
+      "source": "Sloth",
+      "translation": "Лень"
+    },
+    {
+      "source": "Bayagototh",
+      "translation": "Байяготот"
+    },
+    {
+      "source": "The Siren",
+      "translation": "Сирена"
+    },
+    {
+      "source": "Spitter\n",
+      "translation": "Плевальщик\n"
+    },
+    {
+      "source": "Leech",
+      "translation": "Пиявка"
+    },
+    {
+      "source": "Shoggoth",
+      "translation": "Шоггот"
+    },
+    {
+      "source": "Crispy Heads",
+      "translation": "Обугленные головы"
+    },
+    {
+      "source": "Mirror",
+      "translation": "Зеркало"
+    },
+    {
+      "source": "Priest",
+      "translation": "Жрец"
+    },
+    {
+      "source": "Demo Doggo",
+      "translation": "Пёсик из демоверсии"
+    },
+    {
+      "source": "Daddy",
+      "translation": "Папочка"
+    },
+    {
+      "source": "Demon Wolf",
+      "translation": "Демонический волк"
+    },
+    {
+      "source": "Slug Priest",
+      "translation": "Жрец-слизень"
+    },
+    {
+      "source": "Demo Crispys",
+      "translation": "Обугленные из демоверсии"
+    },
+    {
+      "source": "Wrath\n",
+      "translation": "Гнев\n"
+    },
+    {
+      "source": "Your Brain",
+      "translation": "Твой мозг"
+    },
+    {
+      "source": "Childhood Memories",
+      "translation": "Детские воспоминания"
+    },
+    {
+      "source": "SKIP INTRO?",
+      "translation": "ПРОПУСТИТЬ ВСТУПЛЕНИЕ?"
+    },
+    {
+      "source": "The Woods",
+      "translation": "Лес"
+    },
+    {
+      "source": "EXAM",
+      "translation": "ОСМОТР"
+    },
+    {
+      "source": "BURN HAND",
+      "translation": "СЖЕЧЬ РУКУ"
+    },
+    {
+      "source": "TRUCK KEY PICKED UP",
+      "translation": "КЛЮЧ ОТ ГРУЗОВИКА ПОДОБРАН"
+    },
+    {
+      "source": "BURN BOX",
+      "translation": "СЖЕЧЬ ЯЩИК"
+    },
+    {
+      "source": "I CAN'T ESCAPE ON FOOT",
+      "translation": "ПЕШКОМ НЕ ВЫБРАТЬСЯ"
+    },
+    {
+      "source": "I TRUSTED YOU",
+      "translation": "Я ТЕБЕ ДОВЕРЯЛ"
+    },
+    {
+      "source": "THE WOLF IS NEAR",
+      "translation": "ВОЛК БЛИЗКО"
+    },
+    {
+      "source": "WOOF",
+      "translation": "ГАВ"
+    },
+    {
+      "source": "BLOODY RAG PICKED UP",
+      "translation": "ОКРОВАВЛЕННАЯ ТРЯПКА ПОДОБРАНА"
+    },
+    {
+      "source": "CHANGING INTO SOMETHING ELSE",
+      "translation": "ПРЕВРАЩАЕТСЯ ВО ЧТО-ТО ДРУГОЕ"
+    },
+    {
+      "source": "MUDDY RAG PICKED UP",
+      "translation": "ГРЯЗНАЯ ТРЯПКА ПОДОБРАНА"
+    },
+    {
+      "source": "IT'S TOO HOT",
+      "translation": "СЛИШКОМ ГОРЯЧО"
+    },
+    {
+      "source": "OPEN/SHUT",
+      "translation": "ОТКРЫТЬ/ЗАКРЫТЬ"
+    },
+    {
+      "source": "CLENCHED HAND PICKED UP",
+      "translation": "СЖАТАЯ В КУЛАК КИСТЬ ПОДОБРАНА"
+    },
+    {
+      "source": "IT PREYS ON US",
+      "translation": "ОНО ОХОТИТСЯ НА НАС"
+    },
+    {
+      "source": "I HAVE TO ESCAPE",
+      "translation": "НАДО БЕЖАТЬ"
+    },
+    {
+      "source": "I NEED THE KEY",
+      "translation": "НУЖЕН КЛЮЧ"
+    },
+    {
+      "source": "LOCKED BOX PICKED UP",
+      "translation": "ЗАПЕРТЫЙ ЯЩИК ПОДОБРАН"
+    },
+    {
+      "source": "TREE FLESH PICKED UP",
+      "translation": "ПЛОТЬ ДЕРЕВА ПОДОБРАНА"
+    },
+    {
+      "source": "THE TREE LOOKS LIKE IT'S MOLTING.",
+      "translation": "ДЕРЕВО БУДТО СБРАСЫВАЕТ КОЖУ."
+    },
+    {
+      "source": "TURN ON",
+      "translation": "ВКЛЮЧИТЬ"
+    },
+    {
+      "source": "PLACE BARK",
+      "translation": "ПОЛОЖИТЬ КОРУ"
+    },
+    {
+      "source": "SOMETHING BURIED HERE SMELLS STRANGE.",
+      "translation": "ЧТО-ТО ЗАКОПАННОЕ ЗДЕСЬ СТРАННО ПАХНЕТ."
+    },
+    {
+      "source": "TURN OFF",
+      "translation": "ВЫКЛЮЧИТЬ"
+    },
+    {
+      "source": "CROW PICKED UP",
+      "translation": "ВОРОНА ПОДОБРАНА"
+    },
+    {
+      "source": "PLACE STICKS",
+      "translation": "ПОЛОЖИТЬ ВЕТКИ"
+    },
+    {
+      "source": "PLACE FLESH",
+      "translation": "ПОЛОЖИТЬ ПЛОТЬ"
+    },
+    {
+      "source": "TREE BARK PICKED UP",
+      "translation": "КОРА ДЕРЕВА ПОДОБРАНА"
+    },
+    {
+      "source": "IT'S SOME SORT OF MEAT?",
+      "translation": "ЭТО КАКОЕ-ТО МЯСО?"
+    },
+    {
+      "source": "WE SHOULD NOT HAVE COME HERE",
+      "translation": "НАМ НЕ СТОИЛО СЮДА ПРИХОДИТЬ"
+    },
+    {
+      "source": "STICKS PICKED UP",
+      "translation": "ВЕТКИ ПОДОБРАНЫ"
+    },
+    {
+      "source": "PLACE CROW",
+      "translation": "ПОЛОЖИТЬ ВОРОНУ"
+    },
+    {
+      "source": "THE FLESH IS NEXT?",
+      "translation": "СЛЕДОМ — ПЛОТЬ?"
+    },
+    {
+      "source": "A DEAD FACE?",
+      "translation": "МЁРТВОЕ ЛИЦО?"
+    },
+    {
+      "source": "NEXT ARE STICKS.",
+      "translation": "ДАЛЬШЕ — ВЕТКИ."
+    },
+    {
+      "source": "\nNot Here.",
+      "translation": "\nЗдесь нет."
+    },
+    {
+      "source": "\nWhere did it go?",
+      "translation": "\nКуда оно делось?"
+    },
+    {
+      "source": "\nI NEED IT!",
+      "translation": "\nМНЕ ЭТО НУЖНО!"
+    },
+    {
+      "source": "How long has it been keeping us here?\n\nI can’t remember anymore. \r\n\r\nWe can’t keep doing this.\r\n\r\nI think I found it.. \r\n\nThe way out.",
+      "translation": "Сколько оно уже держит нас здесь?\n\nЯ больше не помню.\n\nТак больше не может продолжаться.\n\nКажется, я нашёл его...\n\nВыход."
+    },
+    {
+      "source": "SLIDE",
+      "translation": "СДВИНУТЬ"
+    },
+    {
+      "source": "KNOCK",
+      "translation": "ПОСТУЧАТЬ"
+    },
+    {
+      "source": "DO IT",
+      "translation": "СДЕЛАТЬ ЭТО"
+    },
+    {
+      "source": "PLACE",
+      "translation": "ПОЛОЖИТЬ"
+    },
+    {
+      "source": "KEY PICKED UP",
+      "translation": "КЛЮЧ ПОДОБРАН"
+    },
+    {
+      "source": "GUN PICKED UP",
+      "translation": "ПИСТОЛЕТ ПОДОБРАН"
+    },
+    {
+      "source": "CHECK",
+      "translation": "ПРОВЕРИТЬ"
+    },
+    {
+      "source": "Lucid dreams are a battle between the unconscious and conscious for control. \nYou are not made up of your unconscious, but rather your conscious decisions.",
+      "translation": "Осознанный сон — это борьба сознания и бессознательного за власть.\nТебя определяет не бессознательное, а твой осознанный выбор."
+    },
+    {
+      "source": "DOWNLOADING",
+      "translation": "ЗАГРУЗКА"
+    },
+    {
+      "source": "SENSITIVITY",
+      "translation": "ЧУВСТВИТЕЛЬНОСТЬ"
+    },
+    {
+      "source": "MOTION SENSITIVITY",
+      "translation": "ЧУВСТВИТЕЛЬНОСТЬ ДВИЖЕНИЯ"
+    },
+    {
+      "source": "Lost Tape #1",
+      "translation": "Кассета № 1"
+    }
+  ]
+}

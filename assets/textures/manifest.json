@@ -1,0 +1,687 @@
+{
+  "version": 1,
+  "generator": "tools/build_runtime_texture_pack.py",
+  "source": "Текстуры/Перевод (проверенные карты нормалей) + сохранённые установленные текстуры",
+  "entries": [
+    {
+      "name": "Vend2_N",
+      "width": 512,
+      "height": 512,
+      "file": "Vend2_N.png",
+      "overlay": false,
+      "pointFilter": false,
+      "clamp": false,
+      "linear": true
+    },
+    {
+      "name": "Vend_N",
+      "width": 512,
+      "height": 512,
+      "file": "Vend_N.png",
+      "overlay": false,
+      "pointFilter": false,
+      "clamp": false,
+      "linear": true
+    },
+    {
+      "name": "Acid_D",
+      "width": 256,
+      "height": 256,
+      "file": "Acid_D.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false
+    },
+    {
+      "name": "Bathroom_sign_D",
+      "width": 128,
+      "height": 128,
+      "file": "Bathroom_sign_D.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false
+    },
+    {
+      "name": "Bathroom_sign_S",
+      "width": 128,
+      "height": 128,
+      "file": "Bathroom_sign_S.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false
+    },
+    {
+      "name": "Calender2_D",
+      "width": 128,
+      "height": 128,
+      "file": "Calender2_D.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false
+    },
+    {
+      "name": "Calender_D",
+      "file": "Calender_D.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false,
+      "width": 128,
+      "height": 128
+    },
+    {
+      "name": "Change_Station_D",
+      "width": 256,
+      "height": 256,
+      "file": "Change_Station_D.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false
+    },
+    {
+      "name": "DLC_PHARM_shelf_D",
+      "width": 256,
+      "height": 256,
+      "file": "DLC_PHARM_shelf_D.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false
+    },
+    {
+      "name": "DLC_exit2_D",
+      "width": 64,
+      "height": 64,
+      "file": "DLC_exit2_D.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false
+    },
+    {
+      "name": "DLC_exit_D",
+      "width": 64,
+      "height": 64,
+      "file": "DLC_exit_D.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false
+    },
+    {
+      "name": "DLC_fence_D",
+      "width": 256,
+      "height": 256,
+      "file": "DLC_fence_D.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false
+    },
+    {
+      "name": "DLC_mat_D",
+      "width": 64,
+      "height": 64,
+      "file": "DLC_mat_D.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false
+    },
+    {
+      "name": "DLC_page1",
+      "width": 256,
+      "height": 512,
+      "file": "DLC_page1.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false
+    },
+    {
+      "name": "DLC_tape1_D",
+      "width": 128,
+      "height": 128,
+      "file": "DLC_tape1_D.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false
+    },
+    {
+      "name": "DLC_tape2_D",
+      "width": 128,
+      "height": 128,
+      "file": "DLC_tape2_D.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false
+    },
+    {
+      "name": "DW_tunnel_end_D",
+      "file": "DW_tunnel_end_D.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false,
+      "width": 512,
+      "height": 256
+    },
+    {
+      "name": "Esc_gate_D",
+      "file": "Esc_gate_D.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false,
+      "width": 256,
+      "height": 256
+    },
+    {
+      "name": "Exit_sign_D",
+      "width": 128,
+      "height": 128,
+      "file": "Exit_sign_D.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false
+    },
+    {
+      "name": "Exit_sign_E",
+      "width": 128,
+      "height": 128,
+      "file": "Exit_sign_E.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false
+    },
+    {
+      "name": "Fsub_title_D",
+      "file": "Fsub_title_D.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false,
+      "width": 256,
+      "height": 128
+    },
+    {
+      "name": "Lab_logo_D",
+      "width": 128,
+      "height": 128,
+      "file": "Lab_logo_D.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false
+    },
+    {
+      "name": "MIDNIGHT_CD_D",
+      "width": 128,
+      "height": 128,
+      "file": "MIDNIGHT_CD_D.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false
+    },
+    {
+      "name": "MN_text1",
+      "width": 468,
+      "height": 129,
+      "file": "MN_text1.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false
+    },
+    {
+      "name": "MN_text2",
+      "width": 459,
+      "height": 53,
+      "file": "MN_text2.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false
+    },
+    {
+      "name": "Missing_poster_D",
+      "width": 128,
+      "height": 128,
+      "file": "Missing_poster_D.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false
+    },
+    {
+      "name": "New_Doge_D",
+      "width": 2048,
+      "height": 2048,
+      "file": "New_Doge_D.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false
+    },
+    {
+      "name": "Office_D",
+      "file": "Office_D.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false,
+      "width": 256,
+      "height": 256
+    },
+    {
+      "name": "PC_E",
+      "file": "PC_E.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false,
+      "width": 256,
+      "height": 256
+    },
+    {
+      "name": "PC_E2",
+      "file": "PC_E2.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false,
+      "width": 256,
+      "height": 256
+    },
+    {
+      "name": "Tape1_D",
+      "file": "Tape1_D.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false,
+      "width": 64,
+      "height": 64
+    },
+    {
+      "name": "Tape_D",
+      "width": 64,
+      "height": 64,
+      "file": "Tape_D.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false
+    },
+    {
+      "name": "Tape_D2",
+      "width": 64,
+      "height": 64,
+      "file": "Tape_D2.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false
+    },
+    {
+      "name": "Tape_D3",
+      "file": "Tape_D3.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false,
+      "width": 64,
+      "height": 64
+    },
+    {
+      "name": "Tape_case0_D",
+      "file": "Tape_case0_D.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false,
+      "width": 256,
+      "height": 256
+    },
+    {
+      "name": "Tape_case1_D",
+      "width": 256,
+      "height": 256,
+      "file": "Tape_case1_D.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false
+    },
+    {
+      "name": "Tape_case2_D",
+      "width": 256,
+      "height": 256,
+      "file": "Tape_case2_D.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false
+    },
+    {
+      "name": "Trash_can_D",
+      "file": "Trash_can_D.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false,
+      "width": 256,
+      "height": 256
+    },
+    {
+      "name": "Vend_D",
+      "file": "Vend_D.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false,
+      "width": 512,
+      "height": 512
+    },
+    {
+      "name": "bench2_D",
+      "file": "bench2_D.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false,
+      "width": 256,
+      "height": 256
+    },
+    {
+      "name": "decals_high",
+      "width": 512,
+      "height": 512,
+      "file": "decals_high.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false
+    },
+    {
+      "name": "gameover_spr",
+      "file": "gameover_spr.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false,
+      "width": 1280,
+      "height": 139
+    },
+    {
+      "name": "good_end_spr",
+      "width": 640,
+      "height": 360,
+      "file": "good_end_spr.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false
+    },
+    {
+      "name": "manual_D",
+      "file": "manual_D.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false,
+      "width": 256,
+      "height": 256
+    },
+    {
+      "name": "map1",
+      "file": "map1.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false,
+      "width": 1024,
+      "height": 512
+    },
+    {
+      "name": "map2",
+      "file": "map2.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false,
+      "width": 1024,
+      "height": 512
+    },
+    {
+      "name": "map3",
+      "file": "map3.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false,
+      "width": 1024,
+      "height": 512
+    },
+    {
+      "name": "map4",
+      "file": "map4.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false,
+      "width": 1024,
+      "height": 512
+    },
+    {
+      "name": "map5",
+      "file": "map5.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false,
+      "width": 1024,
+      "height": 512
+    },
+    {
+      "name": "mid_name_spr",
+      "file": "mid_name_spr.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false,
+      "width": 364,
+      "height": 182
+    },
+    {
+      "name": "name2_spr",
+      "file": "name2_spr.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false,
+      "width": 728,
+      "height": 176
+    },
+    {
+      "name": "name_spr",
+      "file": "name_spr.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false,
+      "width": 728,
+      "height": 176
+    },
+    {
+      "name": "names_decal3_spr",
+      "width": 1024,
+      "height": 1024,
+      "file": "names_decal3_spr.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false
+    },
+    {
+      "name": "office_pos2_D",
+      "width": 512,
+      "height": 512,
+      "file": "office_pos2_D.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false
+    },
+    {
+      "name": "office_pos_D",
+      "file": "office_pos_D.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false,
+      "width": 512,
+      "height": 512
+    },
+    {
+      "name": "opening1_spr",
+      "width": 340,
+      "height": 340,
+      "file": "opening1_spr.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false
+    },
+    {
+      "name": "opening2_spr",
+      "width": 340,
+      "height": 340,
+      "file": "opening2_spr.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false
+    },
+    {
+      "name": "page4",
+      "width": 128,
+      "height": 256,
+      "file": "page4.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false
+    },
+    {
+      "name": "page4b",
+      "width": 128,
+      "height": 256,
+      "file": "page4b.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false
+    },
+    {
+      "name": "pos_1",
+      "file": "pos_1.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false,
+      "width": 128,
+      "height": 256
+    },
+    {
+      "name": "pos_2",
+      "file": "pos_2.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false,
+      "width": 128,
+      "height": 256
+    },
+    {
+      "name": "pos_3",
+      "file": "pos_3.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false,
+      "width": 128,
+      "height": 256
+    },
+    {
+      "name": "pos_4",
+      "file": "pos_4.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false,
+      "width": 128,
+      "height": 256
+    },
+    {
+      "name": "pos_5",
+      "file": "pos_5.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false,
+      "width": 128,
+      "height": 256
+    },
+    {
+      "name": "pos_6",
+      "file": "pos_6.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false,
+      "width": 128,
+      "height": 256
+    },
+    {
+      "name": "pos_7",
+      "file": "pos_7.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false,
+      "width": 128,
+      "height": 256
+    },
+    {
+      "name": "splash2_spr",
+      "width": 320,
+      "height": 180,
+      "file": "splash2_spr.png",
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false
+    },
+    {
+      "name": "MN_controls_menu",
+      "file": "MN_controls_menu.png",
+      "width": 640,
+      "height": 360,
+      "overlay": false,
+      "pointFilter": true,
+      "clamp": false,
+      "linear": false
+    }
+  ]
+}
